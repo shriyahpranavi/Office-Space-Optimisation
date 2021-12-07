@@ -1,0 +1,1001 @@
+Room_Id,Room_Name,Booking_Id,Capacity,Room_type,Building_Number,Building_Name,Floor_Number,Utilities,Media
+3V-31,Krone,v5N-56cs,6,Conference Hall,h21-35ru,Caryophyllaceae,4,Marker,http://dummyimage.com/121x100.png/5fa2dd/ffffff
+dR-2Q,Yuan Renminbi,9J9-99pZ,5,Conference Hall,F8V-67FF,Hypnaceae,4,Air Conditioner,http://dummyimage.com/161x100.png/ff4444/ffffff
+sc-2z,Peso,2Iv-63ad,4,Conference Hall,H3v-91iq,Poaceae,9,Projector,http://dummyimage.com/108x100.png/ff4444/ffffff
+hp-0C,Hryvnia,qST-13BQ,10,Conference Hall,48V-65Y5,Stereocaulaceae,1,Projector,http://dummyimage.com/117x100.png/cc0000/ffffff
+Pe-1K,Marka,pTy-54ak,4,Conference Hall,S83-14yQ,Poaceae,2,Monitor,http://dummyimage.com/113x100.png/5fa2dd/ffffff
+J7-2s,Taka,7pC-51p6,9,Conference Hall,n0R-486Q,Asteraceae,2,Projector,http://dummyimage.com/153x100.png/dddddd/000000
+gD-1b,Franc,WSk-08zE,10,Conference Hall,R5F-9455,Moraceae,8,Duster,http://dummyimage.com/213x100.png/ff4444/ffffff
+cL-7h,Tugrik,ZyB-48L5,7,Conference Hall,e8k-958y,Trichotheliaceae,2,Water Filter,http://dummyimage.com/138x100.png/5fa2dd/ffffff
+fV-7t,Rupiah,xcj-09m0,10,Conference Hall,r5Y-06DK,Polemoniaceae,1,Projector,http://dummyimage.com/107x100.png/ff4444/ffffff
+6b-1C,Yuan Renminbi,a7L-79Qf,6,Conference Hall,B4Z-16Up,Orchidaceae,5,Water Filter,http://dummyimage.com/166x100.png/dddddd/000000
+6t-9f,Ruble,IOs-801e,2,Cubicle,V2n-29Zf,Asteraceae,1,Monitor,http://dummyimage.com/224x100.png/cc0000/ffffff
+Pt-9E,Rupiah,73R-25UT,1,Cubicle,84b-37Lu,Fabaceae,0,Monitor,http://dummyimage.com/191x100.png/dddddd/000000
+Zi-7U,Real,y2h-25s9,10,Conference Hall,12t-82IK,Asteraceae,4,Air Conditioner,http://dummyimage.com/111x100.png/cc0000/ffffff
+LN-6G,Franc,Qew-54k3,3,Conference Hall,x9x-52G0,Liliaceae,5,Duster,http://dummyimage.com/137x100.png/cc0000/ffffff
+Sq-3a,Rial,YfU-748N,4,Conference Hall,N7g-68ga,Rosaceae,4,Air Conditioner,http://dummyimage.com/196x100.png/5fa2dd/ffffff
+PD-0V,Rupiah,Hpo-03js,6,Conference Hall,i8z-81nY,Rosaceae,8,Air Conditioner,http://dummyimage.com/227x100.png/cc0000/ffffff
+FD-1v,Kip,ySF-81l0,1,Cubicle,O1N-27mi,Poaceae,3,Air Conditioner,http://dummyimage.com/103x100.png/5fa2dd/ffffff
+2I-7P,Euro,zXu-22Yi,6,Conference Hall,b3V-53dU,Zingiberaceae,5,Duster,http://dummyimage.com/120x100.png/cc0000/ffffff
+us-3R,Peso,jVj-73eJ,9,Conference Hall,W2H-14dS,Asteraceae,6,Projector,http://dummyimage.com/234x100.png/cc0000/ffffff
+rO-3p,Yuan Renminbi,64S-31eF,8,Conference Hall,m3s-53re,Polygonaceae,7,Marker,http://dummyimage.com/182x100.png/5fa2dd/ffffff
+mL-0a,Baht,QCm-54jE,4,Conference Hall,G4J-28dV,Cyperaceae,9,Marker,http://dummyimage.com/181x100.png/5fa2dd/ffffff
+KM-9F,Franc,3L1-04cv,9,Conference Hall,q7U-08DI,Asteraceae,7,Water Filter,http://dummyimage.com/171x100.png/dddddd/000000
+aH-3F,Rupiah,JPY-84Et,6,Conference Hall,706-89CY,Asteraceae,1,Duster,http://dummyimage.com/201x100.png/5fa2dd/ffffff
+fw-8y,Ringgit,cvt-97Le,3,Conference Hall,k2A-13lb,Pyrenulaceae,9,Water Filter,http://dummyimage.com/129x100.png/ff4444/ffffff
+R6-9o,Yuan Renminbi,htZ-58HW,10,Conference Hall,L0J-58HD,Asteraceae,3,Monitor,http://dummyimage.com/198x100.png/ff4444/ffffff
+TP-6d,Peso,bGj-934g,1,Cubicle,g0l-21fY,Fabaceae,9,Air Conditioner,http://dummyimage.com/232x100.png/dddddd/000000
+DL-3Y,Pound,5ct-01yk,9,Conference Hall,d6w-735W,Asteraceae,8,Water Filter,http://dummyimage.com/192x100.png/ff4444/ffffff
+2h-1V,Dollar,yPD-82xO,9,Conference Hall,Y92-45FM,Umbilicariaceae,5,Air Conditioner,http://dummyimage.com/167x100.png/5fa2dd/ffffff
+ob-4c,Sol,KxF-97oZ,2,Cubicle,U9w-336G,Nymphaeaceae,7,Water Filter,http://dummyimage.com/217x100.png/5fa2dd/ffffff
+eg-8f,Yuan Renminbi,9mQ-29Bv,2,Cubicle,A3T-28xp,Dryopteridaceae,2,Duster,http://dummyimage.com/171x100.png/5fa2dd/ffffff
+Me-6y,Afghani,maw-94h3,4,Conference Hall,R5t-10In,Moraceae,4,Duster,http://dummyimage.com/241x100.png/dddddd/000000
+03-0l,Zloty,4tG-51qX,1,Cubicle,M65-02j7,Asteraceae,1,Air Conditioner,http://dummyimage.com/127x100.png/5fa2dd/ffffff
+YB-2X,Ruble,mLT-57zO,2,Conference Hall,f74-16Wk,Asteraceae,8,Monitor,http://dummyimage.com/221x100.png/ff4444/ffffff
+32-6o,Ringgit,otx-92Xx,5,Conference Hall,n55-19aQ,Lamiaceae,1,Marker,http://dummyimage.com/169x100.png/5fa2dd/ffffff
+QW-4C,Dollar,uQX-74zt,2,Conference Hall,W9a-722G,Oxalidaceae,0,Air Conditioner,http://dummyimage.com/162x100.png/5fa2dd/ffffff
+dp-9f,Real,nb0-93IG,1,Cubicle,C9C-13ho,Chenopodiaceae,9,Air Conditioner,http://dummyimage.com/203x100.png/cc0000/ffffff
+PA-7p,Litas,VFx-31nt,10,Conference Hall,F3A-3632,Piperaceae,9,Air Conditioner,http://dummyimage.com/201x100.png/5fa2dd/ffffff
+5R-5X,Euro,LcZ-61Sm,7,Conference Hall,96k-03Uq,Poaceae,7,Projector,http://dummyimage.com/186x100.png/cc0000/ffffff
+7d-4n,Peso,eJV-921T,9,Conference Hall,N8K-86g5,Polemoniaceae,1,Air Conditioner,http://dummyimage.com/220x100.png/5fa2dd/ffffff
+eY-7K,Euro,Jl6-59i1,5,Conference Hall,o3x-67Xs,Boraginaceae,0,Air Conditioner,http://dummyimage.com/161x100.png/cc0000/ffffff
+0j-8K,Manat,H4o-9803,9,Conference Hall,k7N-10mR,Ranunculaceae,9,Water Filter,http://dummyimage.com/193x100.png/ff4444/ffffff
+7P-4P,Rupiah,Zbs-37UV,2,Cubicle,21b-10cH,Poaceae,2,Monitor,http://dummyimage.com/184x100.png/cc0000/ffffff
+8m-1W,Baht,J1i-59JA,6,Conference Hall,X65-42w6,Onagraceae,6,Duster,http://dummyimage.com/185x100.png/ff4444/ffffff
+mo-87,Krona,b5q-43bu,1,Conference Hall,s70-40fK,Dryopteridaceae,3,Marker,http://dummyimage.com/165x100.png/cc0000/ffffff
+3A-06,Hryvnia,6Js-14KT,8,Conference Hall,A1f-45bn,Fabaceae,4,Duster,http://dummyimage.com/137x100.png/ff4444/ffffff
+Vg-5Q,Dong,ILv-18Z2,1,Conference Hall,J5O-77ue,Betulaceae,6,Marker,http://dummyimage.com/244x100.png/dddddd/000000
+XV-1l,Dollar,wsK-468y,6,Conference Hall,G1G-99Xb,Dicranaceae,8,Air Conditioner,http://dummyimage.com/184x100.png/cc0000/ffffff
+Tp-7H,Dong,MeX-54nN,7,Conference Hall,12a-04Qg,Asteraceae,6,Marker,http://dummyimage.com/228x100.png/cc0000/ffffff
+9A-6v,Rupiah,Bgm-86Mi,10,Conference Hall,X73-56OV,Apiaceae,5,Marker,http://dummyimage.com/134x100.png/cc0000/ffffff
+5S-80,Yuan Renminbi,8Nu-17Tk,7,Conference Hall,k1T-2443,Iridaceae,5,Marker,http://dummyimage.com/134x100.png/cc0000/ffffff
+jz-7q,Koruna,O5s-16Dd,9,Conference Hall,u45-84ZW,Asclepiadaceae,8,Marker,http://dummyimage.com/132x100.png/5fa2dd/ffffff
+gO-0h,Yuan Renminbi,PWh-68lK,5,Conference Hall,78b-83gH,Ranunculaceae,6,Projector,http://dummyimage.com/165x100.png/5fa2dd/ffffff
+cU-4u,Rupiah,MBr-58ay,1,Conference Hall,v7e-18JF,Asteraceae,4,Monitor,http://dummyimage.com/147x100.png/cc0000/ffffff
+HH-6Q,Yuan Renminbi,EAa-13uk,6,Conference Hall,C1E-49QE,Polemoniaceae,3,Duster,http://dummyimage.com/170x100.png/cc0000/ffffff
+Ag-1z,Yuan Renminbi,rvN-496t,6,Conference Hall,h49-90Dm,Brassicaceae,6,Projector,http://dummyimage.com/233x100.png/5fa2dd/ffffff
+9x-7C,Dollar,glu-31jc,5,Conference Hall,X0k-03Vw,Juncaceae,0,Water Filter,http://dummyimage.com/144x100.png/dddddd/000000
+kC-4z,Rupiah,fyc-440D,3,Conference Hall,O6Z-48xQ,Balsaminaceae,4,Marker,http://dummyimage.com/125x100.png/cc0000/ffffff
+nu-8j,Zloty,RFK-27F1,6,Conference Hall,n2N-215n,Poaceae,2,Projector,http://dummyimage.com/207x100.png/cc0000/ffffff
+dw-0B,Krona,mGV-208D,3,Conference Hall,92G-359K,Isoetaceae,5,Duster,http://dummyimage.com/108x100.png/cc0000/ffffff
+SG-6t,Dollar,5TB-996k,9,Conference Hall,e9X-54NR,Grimmiaceae,9,Air Conditioner,http://dummyimage.com/185x100.png/ff4444/ffffff
+r4-7p,Rupiah,b2g-93QS,9,Conference Hall,B4b-23pc,Violaceae,8,Air Conditioner,http://dummyimage.com/134x100.png/ff4444/ffffff
+Gp-6x,Krona,8rG-91IZ,10,Conference Hall,b8t-11ll,Cactaceae,9,Projector,http://dummyimage.com/182x100.png/ff4444/ffffff
+ny-52,Krona,3hQ-94oX,8,Conference Hall,F7h-48S1,Campanulaceae,1,Duster,http://dummyimage.com/154x100.png/cc0000/ffffff
+CF-6r,Ruble,UVe-18El,1,Conference Hall,e7W-48jG,Asteraceae,8,Duster,http://dummyimage.com/159x100.png/5fa2dd/ffffff
+Sj-41,Euro,6uu-96oU,6,Conference Hall,N7g-060w,Leskeaceae,2,Water Filter,http://dummyimage.com/158x100.png/dddddd/000000
+fD-2C,Krona,BDJ-12Ku,4,Conference Hall,03V-49YF,Fabaceae,6,Air Conditioner,http://dummyimage.com/140x100.png/5fa2dd/ffffff
+fd-74,Peso,mvK-08SM,1,Conference Hall,R3W-48HX,Liliaceae,1,Monitor,http://dummyimage.com/230x100.png/dddddd/000000
+wu-5U,Euro,3N1-77mP,2,Cubicle,n1N-18EO,Poaceae,3,Projector,http://dummyimage.com/208x100.png/ff4444/ffffff
+VU-0Y,Krone,p9W-76Og,8,Conference Hall,A4g-10jQ,Apiaceae,7,Water Filter,http://dummyimage.com/244x100.png/ff4444/ffffff
+rR-27,Sol,DrE-17Fv,3,Conference Hall,i2d-09UB,Euphorbiaceae,5,Projector,http://dummyimage.com/120x100.png/5fa2dd/ffffff
+Rv-4a,Taka,T0T-61Wj,9,Conference Hall,T78-500u,Fabaceae,4,Duster,http://dummyimage.com/116x100.png/ff4444/ffffff
+M8-2n,Kyat,d9t-520Z,6,Conference Hall,w1X-08WH,Violaceae,2,Projector,http://dummyimage.com/237x100.png/cc0000/ffffff
+ys-3f,Real,zG7-10mj,2,Conference Hall,V52-17Kc,Lamiaceae,3,Projector,http://dummyimage.com/209x100.png/5fa2dd/ffffff
+fl-1P,Krona,QOc-85Rd,1,Conference Hall,59R-96Xg,Apocynaceae,5,Marker,http://dummyimage.com/174x100.png/cc0000/ffffff
+5K-29,Yuan Renminbi,x2m-31Li,7,Conference Hall,W5i-82YW,Phytolaccaceae,9,Water Filter,http://dummyimage.com/157x100.png/5fa2dd/ffffff
+hU-4a,Yuan Renminbi,hRa-45T8,8,Conference Hall,b1E-63yL,Lobariaceae,6,Monitor,http://dummyimage.com/153x100.png/ff4444/ffffff
+2C-3H,Ruble,6nm-60Nw,9,Conference Hall,h0a-39uY,Trapeliaceae,7,Air Conditioner,http://dummyimage.com/113x100.png/cc0000/ffffff
+pJ-7P,Dong,8Su-31oR,10,Conference Hall,j9o-591E,Ranunculaceae,7,Monitor,http://dummyimage.com/216x100.png/5fa2dd/ffffff
+61-7O,Yuan Renminbi,9pP-82xL,9,Conference Hall,20k-1443,Pinaceae,7,Air Conditioner,http://dummyimage.com/167x100.png/cc0000/ffffff
+b6-09,Koruna,YJK-054Z,5,Conference Hall,c46-36Fn,Asteraceae,7,Marker,http://dummyimage.com/206x100.png/cc0000/ffffff
+cI-9y,Peso,izh-46RE,3,Conference Hall,D3e-08R5,Pertusariaceae,0,Monitor,http://dummyimage.com/198x100.png/ff4444/ffffff
+h2-43,Denar,iaI-2686,9,Conference Hall,B2s-52u0,Anacardiaceae,5,Air Conditioner,http://dummyimage.com/114x100.png/dddddd/000000
+Aj-8L,Naira,WJI-41yU,2,Conference Hall,n1V-76Ie,Rosaceae,5,Duster,http://dummyimage.com/247x100.png/cc0000/ffffff
+K5-6g,Yuan Renminbi,WdM-59Zo,2,Cubicle,k70-64UK,Asteraceae,5,Marker,http://dummyimage.com/237x100.png/cc0000/ffffff
+ra-4o,Yuan Renminbi,Vjf-118K,7,Conference Hall,f3W-75Fi,Fabaceae,1,Air Conditioner,http://dummyimage.com/100x100.png/dddddd/000000
+T3-4E,Rupiah,wWO-63mU,6,Conference Hall,F8P-45UE,Oleaceae,1,Air Conditioner,http://dummyimage.com/166x100.png/cc0000/ffffff
+tN-1t,Yuan Renminbi,QSF-064R,6,Conference Hall,92Z-51WF,Asteraceae,8,Projector,http://dummyimage.com/236x100.png/ff4444/ffffff
+eC-7F,Krone,9Qe-52xM,9,Conference Hall,p0S-620t,Graphidaceae,9,Projector,http://dummyimage.com/225x100.png/dddddd/000000
+eH-58,Euro,9z8-58Zc,7,Conference Hall,g0H-59tE,Myrtaceae,7,Marker,http://dummyimage.com/240x100.png/ff4444/ffffff
+Oi-2q,Euro,tS6-9379,10,Conference Hall,k0E-49xL,Apiaceae,3,Water Filter,http://dummyimage.com/119x100.png/dddddd/000000
+By-3i,Yuan Renminbi,yI4-20H8,8,Conference Hall,v2F-12PC,Scrophulariaceae,3,Monitor,http://dummyimage.com/164x100.png/cc0000/ffffff
+QJ-7l,Yuan Renminbi,1GX-00U4,8,Conference Hall,J9s-404O,Caryophyllaceae,2,Duster,http://dummyimage.com/241x100.png/ff4444/ffffff
+VP-2I,Peso,HgI-09Bo,2,Cubicle,P4A-66Pn,Ranunculaceae,6,Water Filter,http://dummyimage.com/226x100.png/5fa2dd/ffffff
+aV-5Q,Yuan Renminbi,ioS-24H3,10,Conference Hall,T0N-33Xc,Scrophulariaceae,0,Duster,http://dummyimage.com/218x100.png/cc0000/ffffff
+Ve-1m,Yuan Renminbi,iWc-6586,4,Conference Hall,Q2n-67Qf,Euphorbiaceae,3,Projector,http://dummyimage.com/150x100.png/cc0000/ffffff
+KE-44,Real,u2G-82ot,6,Conference Hall,l60-69Qr,Polemoniaceae,0,Marker,http://dummyimage.com/149x100.png/dddddd/000000
+z1-5M,Denar,TdV-17y1,7,Conference Hall,E8A-59jB,Cyperaceae,4,Monitor,http://dummyimage.com/194x100.png/cc0000/ffffff
+xy-7D,Yuan Renminbi,UTh-52lx,1,Conference Hall,M9f-34ue,Apocynaceae,4,Duster,http://dummyimage.com/217x100.png/5fa2dd/ffffff
+lW-9P,Sol,hlt-69Eg,10,Conference Hall,X9U-586k,Bacidiaceae,9,Water Filter,http://dummyimage.com/203x100.png/dddddd/000000
+O7-71,Yen,eGM-57Q1,7,Conference Hall,x0Q-19eV,Asteraceae,1,Air Conditioner,http://dummyimage.com/203x100.png/dddddd/000000
+Hj-60,Afghani,MAT-401b,7,Conference Hall,22n-58Zt,Poaceae,7,Monitor,http://dummyimage.com/171x100.png/cc0000/ffffff
+Zk-7L,Rupiah,XJ8-46vY,9,Conference Hall,281-55os,Rutaceae,7,Projector,http://dummyimage.com/124x100.png/ff4444/ffffff
+Df-2u,Ruble,Rff-09oS,2,Conference Hall,z6B-769s,Rosaceae,7,Water Filter,http://dummyimage.com/142x100.png/5fa2dd/ffffff
+3C-0s,Rupiah,CBZ-22UE,1,Conference Hall,o34-52Ec,Malvaceae,7,Monitor,http://dummyimage.com/192x100.png/ff4444/ffffff
+DG-1e,Sol,D9i-35Sr,1,Conference Hall,x5g-97kh,Asteraceae,6,Air Conditioner,http://dummyimage.com/171x100.png/ff4444/ffffff
+1a-4T,Sol,76m-60iR,10,Conference Hall,d7R-343C,Bryaceae,2,Marker,http://dummyimage.com/168x100.png/cc0000/ffffff
+Tk-67,Sol,LVu-55GA,10,Conference Hall,Y3b-51kl,Asteraceae,9,Water Filter,http://dummyimage.com/229x100.png/ff4444/ffffff
+Ws-3R,Rupiah,e5G-56yV,2,Cubicle,A3R-44xG,Liliaceae,8,Air Conditioner,http://dummyimage.com/154x100.png/5fa2dd/ffffff
+w8-31,Peso,KRB-33pj,8,Conference Hall,68c-59uO,Pyrenulaceae,4,Monitor,http://dummyimage.com/166x100.png/ff4444/ffffff
+7M-8A,Dong,rDd-67uO,10,Conference Hall,45W-53mR,Ulmaceae,2,Air Conditioner,http://dummyimage.com/108x100.png/5fa2dd/ffffff
+NC-4Y,Peso,byZ-13zI,1,Cubicle,U8P-40Bf,Rosaceae,1,Marker,http://dummyimage.com/170x100.png/ff4444/ffffff
+jO-63,Peso,eer-92ZV,8,Conference Hall,B2v-36gy,Asteraceae,7,Duster,http://dummyimage.com/139x100.png/dddddd/000000
+ar-2X,Yuan Renminbi,IFD-134M,4,Conference Hall,R4k-00kM,Brassicaceae,4,Marker,http://dummyimage.com/181x100.png/cc0000/ffffff
+HW-4k,Peso,wlw-99qI,8,Conference Hall,x0K-58y9,Baeomycetaceae,3,Projector,http://dummyimage.com/238x100.png/cc0000/ffffff
+AQ-4B,Yuan Renminbi,JgS-72wl,10,Conference Hall,X3T-33Ql,Cyperaceae,1,Monitor,http://dummyimage.com/180x100.png/dddddd/000000
+6p-2t,Peso,cGX-44F9,2,Conference Hall,y9R-40H6,Liliaceae,4,Marker,http://dummyimage.com/135x100.png/5fa2dd/ffffff
+zj-90,Dollar,4vS-92uc,2,Conference Hall,u7r-09vu,Apiaceae,9,Air Conditioner,http://dummyimage.com/152x100.png/ff4444/ffffff
+6U-8H,Sol,AB6-02MH,7,Conference Hall,07b-23Of,Apiaceae,1,Marker,http://dummyimage.com/185x100.png/dddddd/000000
+Mn-1f,Real,MqQ-22zC,4,Conference Hall,V3k-64Gl,Gentianaceae,9,Duster,http://dummyimage.com/131x100.png/dddddd/000000
+8T-3T,Euro,m6u-38Wy,1,Cubicle,777-239t,Malvaceae,2,Monitor,http://dummyimage.com/218x100.png/cc0000/ffffff
+gd-5p,Euro,lgw-69WW,9,Conference Hall,28v-82qN,Plumbaginaceae,9,Air Conditioner,http://dummyimage.com/233x100.png/dddddd/000000
+0Y-4R,Ruble,fCl-07fw,10,Conference Hall,I85-06tn,Poaceae,1,Marker,http://dummyimage.com/191x100.png/dddddd/000000
+Fe-9i,Hryvnia,J1x-03YX,6,Conference Hall,83K-14ne,Malvaceae,2,Duster,http://dummyimage.com/194x100.png/5fa2dd/ffffff
+C0-5b,Krona,kmy-705r,9,Conference Hall,C74-38Gc,Liliaceae,6,Projector,http://dummyimage.com/231x100.png/5fa2dd/ffffff
+2r-2G,Yuan Renminbi,mOd-64gm,5,Conference Hall,S4y-101i,Cyperaceae,5,Air Conditioner,http://dummyimage.com/208x100.png/dddddd/000000
+ZH-1V,Krone,xcj-09m0,2,Conference Hall,o79-02Yz,Diapensiaceae,9,Duster,http://dummyimage.com/109x100.png/5fa2dd/ffffff
+oL-7p,Ruble,dAN-21II,10,Conference Hall,N2g-497z,Aspleniaceae,8,Projector,http://dummyimage.com/126x100.png/ff4444/ffffff
+Ui-3H,Hryvnia,dAu-69pB,3,Conference Hall,n1B-93ou,Fabaceae,6,Air Conditioner,http://dummyimage.com/149x100.png/cc0000/ffffff
+lI-79,Peso,bGj-934g,10,Conference Hall,y1M-81lL,Ranunculaceae,4,Air Conditioner,http://dummyimage.com/227x100.png/5fa2dd/ffffff
+mt-5M,Rupiah,DiE-67R7,2,Cubicle,Q5e-38V5,Cyperaceae,0,Monitor,http://dummyimage.com/171x100.png/5fa2dd/ffffff
+m5-5a,Euro,9Qn-45YW,2,Conference Hall,C8x-07vW,Moraceae,2,Monitor,http://dummyimage.com/182x100.png/cc0000/ffffff
+eB-0x,Colon,kwR-82MZ,9,Conference Hall,x8C-00Xg,Orchidaceae,5,Projector,http://dummyimage.com/103x100.png/5fa2dd/ffffff
+3b-7g,Euro,HLB-72AH,5,Conference Hall,F3U-70PI,Araceae,7,Air Conditioner,http://dummyimage.com/166x100.png/ff4444/ffffff
+4f-27,Tugrik,Ql3-19Ba,8,Conference Hall,96k-03Uq,Poaceae,3,Air Conditioner,http://dummyimage.com/177x100.png/5fa2dd/ffffff
+x8-1M,Euro,MVt-16pq,5,Conference Hall,V87-21Fk,Grossulariaceae,6,Projector,http://dummyimage.com/222x100.png/dddddd/000000
+Po-2L,Baht,xMn-27xz,5,Conference Hall,A43-70k0,Asteraceae,3,Marker,http://dummyimage.com/149x100.png/ff4444/ffffff
+zk-6s,Koruna,pmm-95Fb,7,Conference Hall,A5l-977T,Polemoniaceae,3,Air Conditioner,http://dummyimage.com/128x100.png/5fa2dd/ffffff
+6V-5J,Krona,68L-97xV,3,Conference Hall,q7j-604j,Solanaceae,1,Water Filter,http://dummyimage.com/111x100.png/5fa2dd/ffffff
+kT-5g,Yuan Renminbi,2A4-69tP,10,Conference Hall,L8C-78Dv,Fabaceae,2,Marker,http://dummyimage.com/250x100.png/5fa2dd/ffffff
+PA-8K,Zloty,BOP-552o,9,Conference Hall,D5X-241Q,Hydrocharitaceae,9,Water Filter,http://dummyimage.com/236x100.png/dddddd/000000
+kB-9K,Peso,3hQ-94oX,6,Conference Hall,b3V-53dU,Zingiberaceae,5,Marker,http://dummyimage.com/104x100.png/dddddd/000000
+H5-3Z,Peso,kr5-86Wc,10,Conference Hall,e9t-48fg,Poaceae,8,Duster,http://dummyimage.com/224x100.png/dddddd/000000
+n7-92,Ruble,36a-78AA,9,Conference Hall,n8q-29xc,Asteraceae,0,Air Conditioner,http://dummyimage.com/177x100.png/cc0000/ffffff
+EW-5N,Rupiah,Cbf-19lx,1,Conference Hall,x1o-76hC,Myrtaceae,6,Monitor,http://dummyimage.com/183x100.png/ff4444/ffffff
+zy-4d,Yuan Renminbi,1nN-14Kp,2,Cubicle,y0q-97ha,Brassicaceae,7,Projector,http://dummyimage.com/195x100.png/ff4444/ffffff
+PP-4Y,Yuan Renminbi,0sj-723u,9,Conference Hall,l8X-05ig,Boraginaceae,7,Air Conditioner,http://dummyimage.com/153x100.png/dddddd/000000
+fm-0g,Peso,Chq-04ek,3,Conference Hall,E43-60wS,Cyperaceae,2,Water Filter,http://dummyimage.com/247x100.png/ff4444/ffffff
+GV-1K,Ruble,DNA-66Q4,3,Conference Hall,A4g-10jQ,Apiaceae,3,Air Conditioner,http://dummyimage.com/239x100.png/dddddd/000000
+uT-7H,Zloty,t1X-03Vw,9,Conference Hall,k1T-2443,Iridaceae,5,Air Conditioner,http://dummyimage.com/102x100.png/cc0000/ffffff
+BM-4O,Koruna,RPa-78OM,9,Conference Hall,674-70OK,Myrsinaceae,8,Monitor,http://dummyimage.com/191x100.png/dddddd/000000
+A5-9V,Balboa,2a8-19WI,7,Conference Hall,n7j-58bE,Asteraceae,0,Duster,http://dummyimage.com/110x100.png/ff4444/ffffff
+8U-35,Real,HSl-96Vm,8,Conference Hall,P0l-48VV,Asteraceae,4,Marker,http://dummyimage.com/199x100.png/ff4444/ffffff
+S7-9j,Dollar,XbQ-33A8,5,Conference Hall,r95-84AD,Brassicaceae,8,Duster,http://dummyimage.com/143x100.png/dddddd/000000
+z3-4W,Pound,Vtp-60BQ,8,Conference Hall,15e-72LF,Brassicaceae,9,Water Filter,http://dummyimage.com/191x100.png/ff4444/ffffff
+06-8Y,Bolivar,7A9-97OA,7,Conference Hall,U3f-3422,Brachytheciaceae,6,Marker,http://dummyimage.com/201x100.png/cc0000/ffffff
+Rg-98,Yuan Renminbi,4Q7-25oI,6,Conference Hall,44r-16A1,Opegraphaceae,3,Monitor,http://dummyimage.com/192x100.png/5fa2dd/ffffff
+f2-5V,Euro,g04-40Qp,9,Conference Hall,Q96-13jV,Caryophyllaceae,3,Monitor,http://dummyimage.com/128x100.png/dddddd/000000
+gT-24,Yen,gmD-37UM,1,Cubicle,z9z-29wu,Chenopodiaceae,5,Water Filter,http://dummyimage.com/194x100.png/5fa2dd/ffffff
+E4-4p,Sol,QJ8-54rR,3,Conference Hall,k9Q-029U,Teloschistaceae,0,Water Filter,http://dummyimage.com/229x100.png/5fa2dd/ffffff
+ZA-8y,Euro,1FI-95ne,6,Conference Hall,H3v-91iq,Poaceae,3,Marker,http://dummyimage.com/104x100.png/ff4444/ffffff
+vJ-5v,Dong,CyC-58Of,9,Conference Hall,77Z-38OQ,Trapeliaceae,9,Projector,http://dummyimage.com/126x100.png/ff4444/ffffff
+H3-68,Yuan Renminbi,Jt8-094M,8,Conference Hall,N8m-66MS,Porpidiaceae,7,Projector,http://dummyimage.com/214x100.png/ff4444/ffffff
+Si-1P,Yuan Renminbi,Wu5-03k2,3,Conference Hall,W5i-82YW,Phytolaccaceae,9,Projector,http://dummyimage.com/178x100.png/dddddd/000000
+Rg-6k,Dong,XK5-70Ii,1,Conference Hall,w3B-79c4,Malvaceae,2,Water Filter,http://dummyimage.com/104x100.png/5fa2dd/ffffff
+sM-93,Lek,9Ih-85We,9,Conference Hall,W9A-55lM,Fabaceae,1,Marker,http://dummyimage.com/164x100.png/5fa2dd/ffffff
+9J-7H,Shilling,m2l-48b4,2,Conference Hall,R26-26si,Arecaceae,3,Marker,http://dummyimage.com/203x100.png/dddddd/000000
+bt-5F,Euro,rxO-22va,8,Conference Hall,G87-56Rr,Polemoniaceae,1,Marker,http://dummyimage.com/106x100.png/5fa2dd/ffffff
+pc-06,Yuan Renminbi,f1p-07C7,6,Conference Hall,B4N-07ee,Campanulaceae,7,Monitor,http://dummyimage.com/128x100.png/cc0000/ffffff
+8H-6D,Pound,oQ3-1933,1,Cubicle,h6x-08St,Crassulaceae,1,Marker,http://dummyimage.com/192x100.png/cc0000/ffffff
+XJ-2C,Yuan Renminbi,Fby-93zx,5,Conference Hall,G0S-61my,Ranunculaceae,1,Duster,http://dummyimage.com/134x100.png/cc0000/ffffff
+Ty-2z,Rupiah,TMW-09fE,5,Conference Hall,32j-05lz,Apiaceae,1,Monitor,http://dummyimage.com/173x100.png/dddddd/000000
+Fx-3I,Pound,KiE-27L9,3,Conference Hall,t1J-22D5,Fabaceae,7,Water Filter,http://dummyimage.com/164x100.png/ff4444/ffffff
+AI-7G,Ruble,YOJ-81W3,3,Conference Hall,A8d-18qg,Rhamnaceae,8,Projector,http://dummyimage.com/130x100.png/ff4444/ffffff
+ZT-05,Euro,Bly-56G2,2,Cubicle,B7S-87sg,Asteraceae,7,Air Conditioner,http://dummyimage.com/132x100.png/5fa2dd/ffffff
+VC-8J,Sol,6Xd-76Kh,1,Cubicle,49x-48is,Orchidaceae,9,Marker,http://dummyimage.com/184x100.png/dddddd/000000
+3f-7F,Peso,faa-97CZ,1,Conference Hall,w1X-08WH,Violaceae,5,Water Filter,http://dummyimage.com/123x100.png/dddddd/000000
+Sf-0p,Yuan Renminbi,PEY-27eC,4,Conference Hall,e7W-48jG,Asteraceae,6,Duster,http://dummyimage.com/148x100.png/dddddd/000000
+cr-9N,Yuan Renminbi,rfa-67wF,6,Conference Hall,h3H-028f,Cupressaceae,5,Water Filter,http://dummyimage.com/154x100.png/dddddd/000000
+pK-4N,Dollar,m6u-38Wy,1,Cubicle,n3W-2275,Asteraceae,6,Marker,http://dummyimage.com/152x100.png/5fa2dd/ffffff
+lH-2D,Peso,DeI-68Wv,4,Conference Hall,F9e-07Gq,Asteraceae,0,Air Conditioner,http://dummyimage.com/203x100.png/5fa2dd/ffffff
+bP-1O,Rial,uUg-10bi,3,Conference Hall,i0r-028G,Polygonaceae,8,Water Filter,http://dummyimage.com/183x100.png/dddddd/000000
+ZP-2w,Yuan Renminbi,spg-98Mq,6,Conference Hall,k0E-49xL,Apiaceae,1,Water Filter,http://dummyimage.com/222x100.png/5fa2dd/ffffff
+zW-8C,Rupiah,h9V-42C4,6,Conference Hall,45A-25J3,Asteraceae,1,Marker,http://dummyimage.com/217x100.png/ff4444/ffffff
+Qr-0q,Peso,OUE-44W6,10,Conference Hall,l1j-8254,Asteraceae,6,Duster,http://dummyimage.com/214x100.png/cc0000/ffffff
+mb-72,Rupiah,psZ-60BO,1,Conference Hall,Q9Q-87jB,Cladoniaceae,2,Projector,http://dummyimage.com/211x100.png/ff4444/ffffff
+Dx-0Q,Dinar,kzw-43GF,5,Conference Hall,g9v-28Rf,Lamiaceae,7,Projector,http://dummyimage.com/235x100.png/dddddd/000000
+zb-1r,Rupiah,3N1-77mP,6,Conference Hall,U5k-84MD,Geraniaceae,9,Marker,http://dummyimage.com/210x100.png/5fa2dd/ffffff
+xo-4H,Rupiah,23P-10kx,1,Conference Hall,x6E-43VH,Asteraceae,7,Duster,http://dummyimage.com/171x100.png/ff4444/ffffff
+Jt-90,Sol,6M9-73yj,9,Conference Hall,K9e-58Bm,Bartramiaceae,8,Projector,http://dummyimage.com/200x100.png/dddddd/000000
+75-3q,Peso,z86-9720,7,Conference Hall,n0R-486Q,Asteraceae,4,Water Filter,http://dummyimage.com/240x100.png/cc0000/ffffff
+Wo-5o,Franc,ZZj-54nP,4,Conference Hall,60y-33sd,Rosaceae,4,Air Conditioner,http://dummyimage.com/148x100.png/cc0000/ffffff
+pK-7f,Yuan Renminbi,LcZ-61Sm,8,Conference Hall,D6H-27RW,Asteraceae,2,Projector,http://dummyimage.com/204x100.png/dddddd/000000
+e8-54,Euro,RWn-625o,9,Conference Hall,M7b-32Ao,Fumariaceae,4,Water Filter,http://dummyimage.com/127x100.png/5fa2dd/ffffff
+iu-0Q,Yuan Renminbi,EwU-21A3,2,Cubicle,35s-23X5,Onagraceae,3,Water Filter,http://dummyimage.com/122x100.png/cc0000/ffffff
+ie-7J,Euro,jVD-19Uc,7,Conference Hall,O4P-09fM,Fabaceae,4,Air Conditioner,http://dummyimage.com/223x100.png/ff4444/ffffff
+7A-26,Euro,XoP-07XU,4,Conference Hall,w5F-78Nb,Cyperaceae,7,Duster,http://dummyimage.com/199x100.png/5fa2dd/ffffff
+yu-8y,Ringgit,fmG-21q0,1,Cubicle,T0f-739j,Lamiaceae,9,Water Filter,http://dummyimage.com/178x100.png/cc0000/ffffff
+zw-2Q,Peso,OX1-41Bt,1,Cubicle,I3d-13zt,Liliaceae,5,Projector,http://dummyimage.com/248x100.png/cc0000/ffffff
+oz-0M,Yuan Renminbi,jUw-7503,8,Conference Hall,56P-55Fw,Primulaceae,0,Duster,http://dummyimage.com/218x100.png/cc0000/ffffff
+Qb-5n,Peso,5SD-56tY,9,Conference Hall,V4w-20Wi,Scrophulariaceae,9,Marker,http://dummyimage.com/114x100.png/5fa2dd/ffffff
+GN-8k,Yuan Renminbi,Wx3-075f,10,Conference Hall,r9W-06yQ,Boraginaceae,4,Duster,http://dummyimage.com/201x100.png/dddddd/000000
+g3-7D,Naira,4T3-77ZI,8,Conference Hall,G20-04Xa,Asclepiadaceae,3,Duster,http://dummyimage.com/101x100.png/ff4444/ffffff
+f0-89,Euro,Qwj-54xs,1,Conference Hall,i9V-60rN,Mycocaliciaceae,7,Air Conditioner,http://dummyimage.com/101x100.png/dddddd/000000
+Ho-9N,Yuan Renminbi,2Su-53n2,8,Conference Hall,371-50As,Fabaceae,7,Air Conditioner,http://dummyimage.com/239x100.png/5fa2dd/ffffff
+Z8-6E,Rupiah,Drp-77Nr,5,Conference Hall,s70-40fK,Dryopteridaceae,6,Marker,http://dummyimage.com/206x100.png/5fa2dd/ffffff
+zw-3A,Krona,brt-96ha,6,Conference Hall,h8k-20jt,Lamiaceae,0,Projector,http://dummyimage.com/243x100.png/5fa2dd/ffffff
+we-2y,Yuan Renminbi,Tay-602q,2,Cubicle,H5u-34rk,Asteraceae,1,Projector,http://dummyimage.com/164x100.png/ff4444/ffffff
+G8-12,Franc,SVC-96zg,3,Conference Hall,G9n-62GQ,Rosaceae,8,Projector,http://dummyimage.com/124x100.png/dddddd/000000
+ic-1Y,Euro,FEE-61qk,6,Conference Hall,Q2W-88od,Fabaceae,1,Water Filter,http://dummyimage.com/238x100.png/ff4444/ffffff
+KR-5v,Rupiah,b5q-43bu,10,Conference Hall,V3k-64Gl,Gentianaceae,4,Marker,http://dummyimage.com/156x100.png/dddddd/000000
+MH-15,Shekel,LML-196y,5,Conference Hall,78z-86gt,Pottiaceae,7,Air Conditioner,http://dummyimage.com/171x100.png/cc0000/ffffff
+ty-6N,Lempira,oyu-61P9,6,Conference Hall,p0S-620t,Graphidaceae,4,Water Filter,http://dummyimage.com/119x100.png/dddddd/000000
+UO-4G,Rupiah,cff-35UD,9,Conference Hall,e8k-958y,Trichotheliaceae,7,Air Conditioner,http://dummyimage.com/246x100.png/5fa2dd/ffffff
+Km-0A,Boliviano,rqU-39jy,4,Conference Hall,O3P-927a,Verrucariaceae,4,Marker,http://dummyimage.com/220x100.png/5fa2dd/ffffff
+FC-3l,Dong,If3-55PY,1,Conference Hall,q6r-44nF,Campanulaceae,1,Water Filter,http://dummyimage.com/211x100.png/ff4444/ffffff
+Ik-3M,Dirham,JwY-20uv,7,Conference Hall,v6o-35iX,Cyperaceae,1,Monitor,http://dummyimage.com/196x100.png/dddddd/000000
+AQ-5O,Dollar,ZYN-443g,6,Conference Hall,l60-69Qr,Polemoniaceae,9,Water Filter,http://dummyimage.com/102x100.png/dddddd/000000
+uz-0v,Rupiah,A4I-32LR,8,Conference Hall,88q-82fE,Chenopodiaceae,1,Duster,http://dummyimage.com/129x100.png/ff4444/ffffff
+nd-7D,Shilling,EfU-69rh,3,Conference Hall,32a-85iV,Rosaceae,9,Air Conditioner,http://dummyimage.com/171x100.png/5fa2dd/ffffff
+mu-8e,Ruble,bVQ-412K,5,Conference Hall,c69-378e,Onagraceae,7,Water Filter,http://dummyimage.com/235x100.png/dddddd/000000
+r9-8Z,Dollar,Zne-45LF,7,Conference Hall,609-77UD,Acanthaceae,9,Water Filter,http://dummyimage.com/184x100.png/ff4444/ffffff
+ut-2F,Guarani,jDr-36d2,3,Conference Hall,008-87L2,Hydrophyllaceae,3,Marker,http://dummyimage.com/181x100.png/ff4444/ffffff
+lL-6k,Yuan Renminbi,PNK-37KQ,8,Conference Hall,t40-09gP,Onagraceae,4,Marker,http://dummyimage.com/141x100.png/ff4444/ffffff
+MV-4O,Krona,5Eo-47Qj,7,Conference Hall,18Y-37LT,Nyctaginaceae,3,Water Filter,http://dummyimage.com/239x100.png/dddddd/000000
+Ib-1k,Rupiah,E87-9388,5,Conference Hall,z69-39z6,Xyridaceae,1,Projector,http://dummyimage.com/126x100.png/ff4444/ffffff
+bB-5D,Dollar,Ks1-07cm,8,Conference Hall,p3J-50LO,Asteraceae,5,Projector,http://dummyimage.com/231x100.png/dddddd/000000
+pp-4A,Hryvnia,kmL-04DM,8,Conference Hall,r75-61Mt,Rhamnaceae,4,Monitor,http://dummyimage.com/151x100.png/dddddd/000000
+VE-54,Yuan Renminbi,btR-54f1,4,Conference Hall,R7B-64Ca,Liliaceae,8,Marker,http://dummyimage.com/144x100.png/cc0000/ffffff
+E5-7X,Ruble,4U7-5085,6,Conference Hall,M0Z-96kq,Lecanoraceae,9,Water Filter,http://dummyimage.com/112x100.png/dddddd/000000
+ef-8M,Dollar,zuA-558a,2,Conference Hall,L4r-584H,Caryophyllaceae,8,Water Filter,http://dummyimage.com/215x100.png/ff4444/ffffff
+Gr-83,Peso,xVk-94qP,6,Conference Hall,812-57p7,Campanulaceae,3,Monitor,http://dummyimage.com/190x100.png/ff4444/ffffff
+Sl-5L,Rupiah,4pb-12R9,5,Conference Hall,89B-10ne,Brassicaceae,8,Marker,http://dummyimage.com/162x100.png/ff4444/ffffff
+Ui-1x,Kyat,ehI-97dO,7,Conference Hall,v7X-12uK,Araceae,6,Duster,http://dummyimage.com/113x100.png/dddddd/000000
+Gq-9r,Rand,DeS-16bC,1,Conference Hall,z6B-769s,Rosaceae,2,Marker,http://dummyimage.com/190x100.png/ff4444/ffffff
+yL-9b,Rupiah,Nhp-11hW,5,Conference Hall,Y92-45FM,Umbilicariaceae,9,Projector,http://dummyimage.com/193x100.png/ff4444/ffffff
+Kl-7n,Dollar,pBf-987O,7,Conference Hall,v2S-87OA,Caryophyllaceae,0,Monitor,http://dummyimage.com/249x100.png/cc0000/ffffff
+xn-5S,Lempira,lgw-69WW,5,Conference Hall,Q8F-44t9,Portulacaceae,8,Water Filter,http://dummyimage.com/214x100.png/ff4444/ffffff
+gj-4B,Ringgit,Ymc-49cB,5,Conference Hall,O6Z-48xQ,Balsaminaceae,0,Duster,http://dummyimage.com/146x100.png/cc0000/ffffff
+dF-5G,Yuan Renminbi,Cfw-75bl,8,Conference Hall,M2L-57jO,Rosaceae,5,Marker,http://dummyimage.com/124x100.png/cc0000/ffffff
+vO-9f,Peso,kTO-26R9,9,Conference Hall,y1u-17wn,Rosaceae,9,Duster,http://dummyimage.com/171x100.png/dddddd/000000
+Gw-62,Dollar,jzN-94mx,10,Conference Hall,Z63-06eM,Fabaceae,1,Duster,http://dummyimage.com/184x100.png/5fa2dd/ffffff
+6W-4K,Dollar,GP8-99L7,9,Conference Hall,G9u-25b4,Pertusariaceae,4,Projector,http://dummyimage.com/193x100.png/ff4444/ffffff
+6B-1y,Won,X7P-91v9,6,Conference Hall,K70-38hA,Salicaceae,5,Projector,http://dummyimage.com/237x100.png/dddddd/000000
+N1-7o,Yuan Renminbi,tLr-11xy,3,Conference Hall,V2n-29Zf,Asteraceae,8,Water Filter,http://dummyimage.com/111x100.png/ff4444/ffffff
+Ju-1N,Krona,mDF-90wy,3,Conference Hall,e4z-45O8,Lichinaceae,8,Monitor,http://dummyimage.com/102x100.png/ff4444/ffffff
+TT-0H,Ruble,mEJ-87tA,2,Cubicle,281-55os,Rutaceae,3,Projector,http://dummyimage.com/234x100.png/cc0000/ffffff
+Vs-8B,Ruble,b6R-67xw,7,Conference Hall,N4k-36Bb,Cactaceae,7,Monitor,http://dummyimage.com/217x100.png/5fa2dd/ffffff
+U7-6S,Peso,orI-67bK,7,Conference Hall,w4a-532R,Scrophulariaceae,9,Monitor,http://dummyimage.com/134x100.png/cc0000/ffffff
+NI-3T,Baht,IPP-20i0,6,Conference Hall,R2s-975m,Celastraceae,9,Water Filter,http://dummyimage.com/150x100.png/5fa2dd/ffffff
+7p-8I,Euro,2IV-79yT,1,Conference Hall,v6X-97KY,Polygonaceae,1,Monitor,http://dummyimage.com/135x100.png/cc0000/ffffff
+zK-8x,Dollar,84y-66W7,1,Conference Hall,W9V-92H5,Solanaceae,3,Air Conditioner,http://dummyimage.com/114x100.png/5fa2dd/ffffff
+jC-0T,Yuan Renminbi,DeS-16bC,4,Conference Hall,W2H-14dS,Asteraceae,7,Duster,http://dummyimage.com/117x100.png/ff4444/ffffff
+1C-7t,Peso,C3k-79ZS,7,Conference Hall,12n-72Be,Scrophulariaceae,1,Monitor,http://dummyimage.com/118x100.png/ff4444/ffffff
+x5-8n,Dollar,bjN-40GC,6,Conference Hall,91F-15xr,Cyperaceae,6,Water Filter,http://dummyimage.com/214x100.png/5fa2dd/ffffff
+gi-3m,Yuan Renminbi,uhi-54Jl,7,Conference Hall,K3k-257S,Pottiaceae,2,Projector,http://dummyimage.com/230x100.png/5fa2dd/ffffff
+2B-3R,Won,9rd-43zi,1,Conference Hall,E1v-39Kw,Primulaceae,7,Projector,http://dummyimage.com/176x100.png/dddddd/000000
+tM-0I,Yuan Renminbi,G1O-213D,8,Conference Hall,746-26zH,Iridaceae,6,Duster,http://dummyimage.com/220x100.png/5fa2dd/ffffff
+xd-1T,Euro,TVg-602D,8,Conference Hall,Z4e-84Kc,Pontederiaceae,8,Air Conditioner,http://dummyimage.com/102x100.png/cc0000/ffffff
+g1-0Z,Yuan Renminbi,4vS-92uc,2,Conference Hall,v6o-35iX,Cyperaceae,1,Monitor,http://dummyimage.com/191x100.png/5fa2dd/ffffff
+iI-06,Euro,HZ6-73d5,9,Conference Hall,k8n-08Ax,Asteraceae,0,Air Conditioner,http://dummyimage.com/105x100.png/ff4444/ffffff
+TQ-4d,Euro,oGk-06US,3,Conference Hall,k6N-78vt,Fabaceae,2,Marker,http://dummyimage.com/152x100.png/cc0000/ffffff
+n1-6G,Dollar,JYz-98Gk,3,Conference Hall,t16-06t0,Ranunculaceae,5,Air Conditioner,http://dummyimage.com/225x100.png/cc0000/ffffff
+Ix-2S,Yuan Renminbi,nym-58gM,2,Conference Hall,C0o-11Yq,Scrophulariaceae,1,Monitor,http://dummyimage.com/137x100.png/5fa2dd/ffffff
+8k-6T,Euro,7A9-97OA,4,Conference Hall,281-55os,Rutaceae,6,Duster,http://dummyimage.com/214x100.png/5fa2dd/ffffff
+Lf-6P,Franc,zXu-22Yi,4,Conference Hall,o3S-54BL,Hydrophyllaceae,8,Duster,http://dummyimage.com/213x100.png/dddddd/000000
+kQ-40,Peso,teX-19ue,1,Conference Hall,o34-52Ec,Malvaceae,5,Duster,http://dummyimage.com/231x100.png/ff4444/ffffff
+aA-8R,Real,g7m-09lU,1,Cubicle,06r-13L6,Physciaceae,6,Air Conditioner,http://dummyimage.com/191x100.png/ff4444/ffffff
+kZ-2n,Bolivar,Eya-15cK,9,Conference Hall,h8k-20jt,Lamiaceae,2,Projector,http://dummyimage.com/195x100.png/5fa2dd/ffffff
+IC-6b,Zloty,6ke-35Qx,2,Conference Hall,73T-93gN,Lamiaceae,8,Air Conditioner,http://dummyimage.com/184x100.png/5fa2dd/ffffff
+yz-2a,Zloty,bR0-82oR,6,Conference Hall,21w-01kr,Fabaceae,5,Water Filter,http://dummyimage.com/213x100.png/ff4444/ffffff
+Bq-3l,Krona,wsK-468y,5,Conference Hall,59R-96Xg,Apocynaceae,9,Monitor,http://dummyimage.com/238x100.png/ff4444/ffffff
+ol-1B,Yuan Renminbi,je1-690a,5,Conference Hall,v6U-75rI,Cyperaceae,9,Water Filter,http://dummyimage.com/123x100.png/ff4444/ffffff
+ZR-8y,Yuan Renminbi,SH9-52vs,5,Conference Hall,K4j-16Kv,Hypnaceae,2,Projector,http://dummyimage.com/192x100.png/ff4444/ffffff
+7p-5Y,Dong,rDd-67uO,5,Conference Hall,32l-74iK,Asteraceae,2,Duster,http://dummyimage.com/129x100.png/ff4444/ffffff
+PL-2h,Zloty,eer-92ZV,5,Conference Hall,u7r-09vu,Apiaceae,8,Monitor,http://dummyimage.com/221x100.png/ff4444/ffffff
+jc-0u,Yuan Renminbi,99R-25qQ,5,Conference Hall,z69-39z6,Xyridaceae,8,Duster,http://dummyimage.com/183x100.png/cc0000/ffffff
+dh-9F,Yuan Renminbi,Mp2-73HV,6,Conference Hall,t40-09gP,Onagraceae,3,Air Conditioner,http://dummyimage.com/156x100.png/5fa2dd/ffffff
+nt-3W,Yuan Renminbi,oqJ-32GS,9,Conference Hall,d3o-75WU,Polygonaceae,2,Air Conditioner,http://dummyimage.com/143x100.png/cc0000/ffffff
+ue-0C,Lempira,jhX-82GX,7,Conference Hall,92G-359K,Isoetaceae,0,Projector,http://dummyimage.com/164x100.png/cc0000/ffffff
+ZN-3O,Peso,3Ev-0885,6,Conference Hall,139-72Cc,Fumariaceae,3,Water Filter,http://dummyimage.com/209x100.png/dddddd/000000
+eJ-37,Baht,qoP-81Oo,9,Conference Hall,45A-25J3,Asteraceae,3,Monitor,http://dummyimage.com/236x100.png/dddddd/000000
+SM-39,Boliviano,wYd-172Z,8,Conference Hall,P6E-60as,Psoraceae,8,Water Filter,http://dummyimage.com/132x100.png/dddddd/000000
+YN-1u,Dollar,T0T-61Wj,5,Conference Hall,L8C-78Dv,Fabaceae,2,Duster,http://dummyimage.com/108x100.png/cc0000/ffffff
+yP-07,Pound,7AV-05gB,1,Cubicle,A2P-75hY,Fabaceae,3,Marker,http://dummyimage.com/167x100.png/dddddd/000000
+O0-25,Franc,BOP-552o,8,Conference Hall,f0q-95BW,Pinaceae,6,Projector,http://dummyimage.com/192x100.png/5fa2dd/ffffff
+SL-0D,Ruble,4U7-5085,5,Conference Hall,D5y-89sz,Orobanchaceae,3,Water Filter,http://dummyimage.com/166x100.png/ff4444/ffffff
+8G-5d,Baht,Knl-62yR,9,Conference Hall,L1F-291T,Thelotremataceae,6,Air Conditioner,http://dummyimage.com/126x100.png/ff4444/ffffff
+KB-22,Peso,hox-745t,1,Cubicle,p1a-62R5,Anemiaceae,9,Duster,http://dummyimage.com/238x100.png/cc0000/ffffff
+Qt-1K,Euro,a8s-56KB,9,Conference Hall,G5j-660q,Pteridaceae,9,Duster,http://dummyimage.com/241x100.png/ff4444/ffffff
+y2-9H,Rupee,i7T-89q8,10,Conference Hall,X0k-03Vw,Juncaceae,5,Marker,http://dummyimage.com/186x100.png/5fa2dd/ffffff
+Iq-6P,Ruble,y02-42kU,6,Conference Hall,t1J-22D5,Fabaceae,1,Water Filter,http://dummyimage.com/120x100.png/ff4444/ffffff
+CS-2M,Peso,Qew-54k3,10,Conference Hall,V8z-16as,Asteraceae,6,Monitor,http://dummyimage.com/135x100.png/5fa2dd/ffffff
+iQ-8H,Yen,rZH-26hZ,3,Conference Hall,j3w-14ih,Dryopteridaceae,0,Marker,http://dummyimage.com/196x100.png/ff4444/ffffff
+4w-5u,Baht,68L-97xV,7,Conference Hall,07V-90HT,Asteraceae,9,Water Filter,http://dummyimage.com/202x100.png/dddddd/000000
+LF-0P,Franc,6iZ-25ab,5,Conference Hall,Z2y-08ZT,Betulaceae,1,Air Conditioner,http://dummyimage.com/160x100.png/ff4444/ffffff
+pu-4Q,Yuan Renminbi,SCK-60q9,2,Conference Hall,n46-73F4,Rosaceae,7,Air Conditioner,http://dummyimage.com/181x100.png/5fa2dd/ffffff
+Br-4M,Rupiah,GGc-53Rz,5,Conference Hall,h3q-63VH,Amaranthaceae,3,Duster,http://dummyimage.com/229x100.png/5fa2dd/ffffff
+kS-8b,Krone,foY-32Df,10,Conference Hall,H3v-91iq,Poaceae,2,Marker,http://dummyimage.com/227x100.png/dddddd/000000
+k1-44,Dram,PsD-01CP,7,Conference Hall,Z64-06w0,Caprifoliaceae,2,Water Filter,http://dummyimage.com/194x100.png/cc0000/ffffff
+Ed-8h,Peso,u2G-82ot,8,Conference Hall,k0E-49xL,Apiaceae,9,Air Conditioner,http://dummyimage.com/241x100.png/cc0000/ffffff
+mA-4R,Yuan Renminbi,1nN-14Kp,3,Conference Hall,v5n-77Gy,Pottiaceae,1,Duster,http://dummyimage.com/243x100.png/dddddd/000000
+8z-8e,Rand,rqU-39jy,8,Conference Hall,Q9Q-87jB,Cladoniaceae,2,Water Filter,http://dummyimage.com/198x100.png/ff4444/ffffff
+yn-6J,Ringgit,rNS-41sS,2,Conference Hall,085-743i,Rosaceae,4,Duster,http://dummyimage.com/119x100.png/ff4444/ffffff
+nE-9H,Peso,nHr-07eU,3,Conference Hall,59S-80bM,Parmeliaceae,1,Projector,http://dummyimage.com/194x100.png/dddddd/000000
+Vw-1O,Tugrik,5F1-29W7,5,Conference Hall,74u-287Z,Bacidiaceae,5,Air Conditioner,http://dummyimage.com/184x100.png/dddddd/000000
+zm-3H,Rupiah,mOd-64gm,6,Conference Hall,o45-13M8,Fuscideaceae,0,Monitor,http://dummyimage.com/174x100.png/5fa2dd/ffffff
+iT-5I,Real,X2I-46Cg,6,Conference Hall,d3g-12do,Fabaceae,3,Projector,http://dummyimage.com/158x100.png/dddddd/000000
+My-9E,Euro,i0H-524t,7,Conference Hall,V2n-29Zf,Asteraceae,3,Air Conditioner,http://dummyimage.com/241x100.png/5fa2dd/ffffff
+jY-1F,Yuan Renminbi,7nv-03Eo,3,Conference Hall,F4G-54U2,Sphagnaceae,5,Air Conditioner,http://dummyimage.com/136x100.png/ff4444/ffffff
+uD-0M,Peso,0Gf-869Y,9,Conference Hall,P9O-87M1,Saxifragaceae,4,Air Conditioner,http://dummyimage.com/115x100.png/5fa2dd/ffffff
+6J-7o,Yuan Renminbi,fmX-945X,6,Conference Hall,d8b-077A,Lichinaceae,4,Air Conditioner,http://dummyimage.com/219x100.png/5fa2dd/ffffff
+Zi-1n,Dram,ugI-05xY,10,Conference Hall,F1m-052j,Porpidiaceae,4,Monitor,http://dummyimage.com/188x100.png/dddddd/000000
+Wp-9N,Yuan Renminbi,020-86Ym,2,Cubicle,o79-02Yz,Diapensiaceae,1,Monitor,http://dummyimage.com/119x100.png/dddddd/000000
+jv-39,Rupiah,A9F-75dc,9,Conference Hall,Q8F-44t9,Portulacaceae,2,Marker,http://dummyimage.com/127x100.png/dddddd/000000
+3l-3o,Real,8zB-90K5,7,Conference Hall,d03-19tS,Caryophyllaceae,0,Air Conditioner,http://dummyimage.com/169x100.png/5fa2dd/ffffff
+ZD-28,Peso,7mp-33ft,7,Conference Hall,p5Y-87Du,Scrophulariaceae,6,Duster,http://dummyimage.com/167x100.png/cc0000/ffffff
+Yf-22,Euro,QOc-85Rd,6,Conference Hall,H3j-46Ot,Thelotremataceae,6,Air Conditioner,http://dummyimage.com/206x100.png/5fa2dd/ffffff
+D9-8V,Yuan Renminbi,gqv-502v,3,Conference Hall,23e-96M1,Orchidaceae,0,Marker,http://dummyimage.com/220x100.png/cc0000/ffffff
+0p-1B,Peso,hCx-74Ji,3,Conference Hall,P91-22D2,Linaceae,0,Marker,http://dummyimage.com/123x100.png/cc0000/ffffff
+eh-7y,Kuna,xMn-27xz,4,Conference Hall,R7d-584e,Asteraceae,1,Monitor,http://dummyimage.com/236x100.png/5fa2dd/ffffff
+PS-60,Naira,lgw-69WW,9,Conference Hall,l2K-43HE,Pertusariaceae,7,Duster,http://dummyimage.com/185x100.png/dddddd/000000
+gi-7K,Hryvnia,Swa-27JV,5,Conference Hall,89B-10ne,Brassicaceae,1,Marker,http://dummyimage.com/175x100.png/cc0000/ffffff
+r2-31,Real,x2m-31Li,1,Cubicle,h0a-39uY,Trapeliaceae,5,Duster,http://dummyimage.com/206x100.png/ff4444/ffffff
+71-2q,Rupee,Ymc-49cB,3,Conference Hall,E4G-46Fp,Polygonaceae,0,Duster,http://dummyimage.com/178x100.png/ff4444/ffffff
+jt-8x,Colon,CTn-701o,8,Conference Hall,x1K-93KI,Brassicaceae,7,Marker,http://dummyimage.com/242x100.png/dddddd/000000
+Kc-6L,Peso,1fk-38Ey,4,Conference Hall,76D-40JM,Crassulaceae,8,Air Conditioner,http://dummyimage.com/160x100.png/dddddd/000000
+Ra-01,Euro,LVu-55GA,1,Cubicle,89b-294c,Cuscutaceae,3,Water Filter,http://dummyimage.com/139x100.png/cc0000/ffffff
+KI-3q,Peso,iCI-86wI,2,Cubicle,m3s-53re,Polygonaceae,8,Water Filter,http://dummyimage.com/192x100.png/dddddd/000000
+7U-84,Yuan Renminbi,NAY-63IL,5,Conference Hall,C0I-84Ti,Cactaceae,6,Air Conditioner,http://dummyimage.com/229x100.png/5fa2dd/ffffff
+EY-3I,Peso,ASU-03R9,9,Conference Hall,w59-61vD,Asteraceae,8,Marker,http://dummyimage.com/159x100.png/cc0000/ffffff
+BF-1R,Sol,cMR-44RP,1,Conference Hall,O7N-14ol,Fagaceae,2,Duster,http://dummyimage.com/193x100.png/5fa2dd/ffffff
+Fb-6L,Dollar,nUT-07H4,9,Conference Hall,Z8d-933w,Pteridaceae,8,Projector,http://dummyimage.com/154x100.png/dddddd/000000
+hI-4c,Rupiah,c2x-59Kd,8,Conference Hall,j7j-76fe,Brassicaceae,5,Monitor,http://dummyimage.com/235x100.png/5fa2dd/ffffff
+XB-0M,Real,X2z-87RD,1,Cubicle,Z3L-30Q9,Gomphillaceae,8,Projector,http://dummyimage.com/234x100.png/5fa2dd/ffffff
+DE-1c,Rupiah,IPP-20i0,5,Conference Hall,V60-39S7,Amaranthaceae,0,Water Filter,http://dummyimage.com/133x100.png/cc0000/ffffff
+jE-88,Euro,m96-14Ks,7,Conference Hall,h7Z-58Gc,Caryophyllaceae,8,Water Filter,http://dummyimage.com/117x100.png/5fa2dd/ffffff
+9P-1N,Dong,Sal-92sC,8,Conference Hall,Z5s-22lz,Cyperaceae,5,Air Conditioner,http://dummyimage.com/107x100.png/5fa2dd/ffffff
+GU-0I,Peso,ZKl-31C5,8,Conference Hall,706-89CY,Asteraceae,7,Air Conditioner,http://dummyimage.com/248x100.png/5fa2dd/ffffff
+Q0-3Z,Sol,rNE-99uZ,7,Conference Hall,z5K-71lJ,Pyrenulaceae,8,Projector,http://dummyimage.com/152x100.png/dddddd/000000
+5t-1N,Zloty,YJK-054Z,4,Conference Hall,b1E-63yL,Lobariaceae,3,Monitor,http://dummyimage.com/243x100.png/5fa2dd/ffffff
+SA-8P,Franc,a7j-15Ey,10,Conference Hall,z36-39OU,Iridaceae,7,Water Filter,http://dummyimage.com/216x100.png/cc0000/ffffff
+jE-67,Yuan Renminbi,tMU-54p0,1,Cubicle,189-56PN,Lecanoraceae,8,Projector,http://dummyimage.com/217x100.png/ff4444/ffffff
+xs-7g,Peso,BMg-94Mr,8,Conference Hall,d46-36PD,Orchidaceae,4,Marker,http://dummyimage.com/211x100.png/dddddd/000000
+p4-49,Real,SEK-55fb,7,Conference Hall,A5l-977T,Polemoniaceae,6,Water Filter,http://dummyimage.com/238x100.png/5fa2dd/ffffff
+Gz-9r,Rupiah,qEN-27y3,1,Conference Hall,g2t-08aP,Brassicaceae,5,Air Conditioner,http://dummyimage.com/144x100.png/dddddd/000000
+Fk-8P,Euro,fjz-37wB,7,Conference Hall,N5I-82HV,Cladoniaceae,2,Duster,http://dummyimage.com/233x100.png/dddddd/000000
+B2-0g,Real,c0Z-02uw,5,Conference Hall,g1R-85zZ,Flacourtiaceae,2,Marker,http://dummyimage.com/123x100.png/5fa2dd/ffffff
+LE-4L,Ruble,Ql3-19Ba,7,Conference Hall,I8U-07H8,Poaceae,0,Water Filter,http://dummyimage.com/126x100.png/ff4444/ffffff
+2B-4A,Rupiah,zuA-558a,3,Conference Hall,o0d-83Fs,Fabaceae,0,Water Filter,http://dummyimage.com/193x100.png/5fa2dd/ffffff
+LI-5w,Yuan Renminbi,t4q-53v8,7,Conference Hall,v2F-12PC,Scrophulariaceae,7,Water Filter,http://dummyimage.com/134x100.png/cc0000/ffffff
+8z-5M,Koruna,10t-85Eu,1,Conference Hall,r5G-19Cl,Asteraceae,6,Water Filter,http://dummyimage.com/177x100.png/ff4444/ffffff
+52-9L,Lev,ZKm-49DU,7,Conference Hall,58N-06PO,Asteraceae,6,Monitor,http://dummyimage.com/249x100.png/cc0000/ffffff
+bj-5P,Litas,7ga-17yi,5,Conference Hall,E4B-6793,Primulaceae,9,Projector,http://dummyimage.com/107x100.png/cc0000/ffffff
+ZO-0D,Yuan Renminbi,6Xi-51in,1,Conference Hall,64T-77I5,Cyperaceae,9,Water Filter,http://dummyimage.com/120x100.png/cc0000/ffffff
+0n-46,Dollar,dMZ-86sg,5,Conference Hall,F8V-67FF,Hypnaceae,3,Marker,http://dummyimage.com/102x100.png/dddddd/000000
+gT-8c,Yen,2IV-79yT,4,Conference Hall,R1A-65Iv,Brassicaceae,5,Projector,http://dummyimage.com/219x100.png/ff4444/ffffff
+kC-05,Rupiah,i9R-75HW,10,Conference Hall,R4a-84oA,Thelotremataceae,9,Projector,http://dummyimage.com/224x100.png/ff4444/ffffff
+JZ-9t,Euro,RT8-32GU,1,Cubicle,E3Q-98CT,Melastomataceae,0,Water Filter,http://dummyimage.com/103x100.png/5fa2dd/ffffff
+Zf-5H,Ruble,T0k-45lg,7,Conference Hall,T86-67Wc,Onagraceae,1,Projector,http://dummyimage.com/219x100.png/5fa2dd/ffffff
+cj-87,Dong,Bgm-86Mi,7,Conference Hall,A5U-109W,Caprifoliaceae,3,Monitor,http://dummyimage.com/146x100.png/ff4444/ffffff
+Yf-1n,Bolivar,Crx-93Pi,5,Conference Hall,U6g-16Zc,Aceraceae,6,Projector,http://dummyimage.com/150x100.png/cc0000/ffffff
+GX-5f,Rupiah,nG2-37oj,9,Conference Hall,u3F-90nF,Zosteraceae,2,Monitor,http://dummyimage.com/183x100.png/5fa2dd/ffffff
+Fd-48,Yuan Renminbi,RzI-67PS,4,Conference Hall,Q8T-40Ba,Asteraceae,0,Duster,http://dummyimage.com/175x100.png/cc0000/ffffff
+ZK-5x,Rupiah,gNX-203o,1,Cubicle,y9R-40H6,Liliaceae,7,Air Conditioner,http://dummyimage.com/120x100.png/ff4444/ffffff
+QY-2y,Yuan Renminbi,gSG-42x3,10,Conference Hall,33D-75SD,Polygonaceae,8,Water Filter,http://dummyimage.com/229x100.png/5fa2dd/ffffff
+sd-0W,Shilling,wJ8-12g6,8,Conference Hall,o99-77rQ,Fabaceae,7,Water Filter,http://dummyimage.com/188x100.png/5fa2dd/ffffff
+qE-6Y,Baht,wlw-99qI,1,Cubicle,a9Q-48gH,Rosaceae,3,Projector,http://dummyimage.com/178x100.png/dddddd/000000
+Bt-45,Yuan Renminbi,E1H-83Gp,1,Conference Hall,X1Z-62Rh,Poaceae,6,Air Conditioner,http://dummyimage.com/229x100.png/ff4444/ffffff
+rw-36,Ruble,TtB-48wk,6,Conference Hall,Q33-63rv,Liliaceae,9,Marker,http://dummyimage.com/199x100.png/dddddd/000000
+Cw-6n,Peso,By6-31TO,4,Conference Hall,j69-91Er,Sphagnaceae,3,Air Conditioner,http://dummyimage.com/229x100.png/dddddd/000000
+yF-04,Bolivar,6uu-96oU,7,Conference Hall,A00-66Su,Boraginaceae,6,Duster,http://dummyimage.com/125x100.png/dddddd/000000
+tt-3J,Yuan Renminbi,M6J-989h,4,Conference Hall,n88-77Cp,Asteraceae,3,Marker,http://dummyimage.com/143x100.png/5fa2dd/ffffff
+0i-9T,Peso,wSW-46YL,3,Conference Hall,n8r-42BV,Polygonaceae,6,Air Conditioner,http://dummyimage.com/155x100.png/ff4444/ffffff
+8c-06,Dollar,v5N-56cs,7,Conference Hall,X0w-21AI,Boraginaceae,0,Water Filter,http://dummyimage.com/221x100.png/ff4444/ffffff
+dC-1f,Yuan Renminbi,rkR-47ZY,2,Cubicle,R4k-00kM,Brassicaceae,0,Marker,http://dummyimage.com/214x100.png/cc0000/ffffff
+FT-5h,Ruble,uDs-53C2,3,Conference Hall,z0U-80IK,Cyperaceae,0,Air Conditioner,http://dummyimage.com/167x100.png/dddddd/000000
+I9-3Y,Real,zXu-22Yi,6,Conference Hall,Z5s-22lz,Cyperaceae,3,Duster,http://dummyimage.com/108x100.png/dddddd/000000
+sq-8q,Real,Zlz-41qz,6,Conference Hall,U6g-16Zc,Aceraceae,1,Water Filter,http://dummyimage.com/157x100.png/5fa2dd/ffffff
+su-1F,Franc,KCx-57lM,3,Conference Hall,E2T-396e,Brassicaceae,2,Monitor,http://dummyimage.com/139x100.png/cc0000/ffffff
+qf-6v,Euro,pIL-69aV,3,Conference Hall,J3R-46g9,Asteraceae,2,Marker,http://dummyimage.com/204x100.png/5fa2dd/ffffff
+CG-4I,Yuan Renminbi,xkp-33YX,3,Conference Hall,58N-06PO,Asteraceae,5,Projector,http://dummyimage.com/172x100.png/cc0000/ffffff
+24-0J,Euro,1GX-00U4,10,Conference Hall,u9h-04yu,Amaranthaceae,0,Projector,http://dummyimage.com/189x100.png/cc0000/ffffff
+AO-6G,Yuan Renminbi,GfY-99xY,10,Conference Hall,b5J-87S8,Scrophulariaceae,5,Air Conditioner,http://dummyimage.com/171x100.png/cc0000/ffffff
+NZ-9H,Euro,rkR-47ZY,10,Conference Hall,Y3b-51kl,Asteraceae,6,Air Conditioner,http://dummyimage.com/204x100.png/ff4444/ffffff
+9k-6i,Zloty,020-86Ym,5,Conference Hall,E55-43w7,Flacourtiaceae,5,Marker,http://dummyimage.com/174x100.png/5fa2dd/ffffff
+OO-3S,Dollar,zuA-558a,5,Conference Hall,38i-036r,Caprifoliaceae,3,Air Conditioner,http://dummyimage.com/208x100.png/5fa2dd/ffffff
+4i-5Z,Koruna,izh-46RE,5,Conference Hall,88q-82fE,Chenopodiaceae,6,Duster,http://dummyimage.com/143x100.png/5fa2dd/ffffff
+8q-8G,Euro,eTe-32JP,6,Conference Hall,I5x-534m,Asteraceae,4,Water Filter,http://dummyimage.com/225x100.png/dddddd/000000
+XI-4d,Rupiah,Koh-75l4,2,Conference Hall,J5O-77ue,Betulaceae,3,Water Filter,http://dummyimage.com/237x100.png/cc0000/ffffff
+EY-9Y,Yuan Renminbi,A15-57AV,7,Conference Hall,20k-1443,Pinaceae,1,Water Filter,http://dummyimage.com/182x100.png/5fa2dd/ffffff
+d3-07,Ringgit,oCT-91ka,9,Conference Hall,12t-82IK,Asteraceae,3,Air Conditioner,http://dummyimage.com/162x100.png/ff4444/ffffff
+Kb-35,Dollar,thi-00JZ,5,Conference Hall,j7j-76fe,Brassicaceae,9,Monitor,http://dummyimage.com/101x100.png/dddddd/000000
+cK-3Q,Peso,0sj-723u,4,Conference Hall,W9a-722G,Oxalidaceae,2,Duster,http://dummyimage.com/236x100.png/ff4444/ffffff
+bU-9W,Won,AI4-45RU,8,Conference Hall,q35-37h9,Polygonaceae,3,Projector,http://dummyimage.com/187x100.png/cc0000/ffffff
+3s-7F,Zloty,ZYN-443g,1,Conference Hall,s9x-58b8,Urticaceae,7,Monitor,http://dummyimage.com/148x100.png/ff4444/ffffff
+La-3u,Zloty,Kzv-49kF,9,Conference Hall,H3j-46Ot,Thelotremataceae,2,Projector,http://dummyimage.com/236x100.png/dddddd/000000
+0I-1l,Euro,hCx-74Ji,3,Conference Hall,g9v-28Rf,Lamiaceae,8,Projector,http://dummyimage.com/249x100.png/dddddd/000000
+LC-5p,Rupiah,bGj-934g,1,Conference Hall,P0l-48VV,Asteraceae,3,Projector,http://dummyimage.com/144x100.png/5fa2dd/ffffff
+Tm-55,Rial,zAD-8159,5,Conference Hall,h21-35ru,Caryophyllaceae,9,Duster,http://dummyimage.com/225x100.png/5fa2dd/ffffff
+Qp-50,Lev,xyl-571g,1,Conference Hall,33D-75SD,Polygonaceae,1,Water Filter,http://dummyimage.com/140x100.png/cc0000/ffffff
+jU-3C,Ruble,jhI-48xb,4,Conference Hall,C8x-07vW,Moraceae,5,Air Conditioner,http://dummyimage.com/164x100.png/dddddd/000000
+Oq-4P,Zloty,JwY-20uv,3,Conference Hall,x0l-77Lq,Asteraceae,6,Air Conditioner,http://dummyimage.com/207x100.png/cc0000/ffffff
+kU-4U,Peso,dhs-66L8,3,Conference Hall,67P-66uF,Asteraceae,6,Projector,http://dummyimage.com/137x100.png/ff4444/ffffff
+BA-2y,Ruble,x4J-15QY,4,Conference Hall,W5i-82YW,Phytolaccaceae,5,Air Conditioner,http://dummyimage.com/116x100.png/dddddd/000000
+1T-7k,Dong,spg-98Mq,8,Conference Hall,V3t-23rt,Asteraceae,1,Air Conditioner,http://dummyimage.com/168x100.png/dddddd/000000
+ME-4c,Euro,Omu-82Xf,1,Cubicle,y41-79zp,Liliaceae,6,Projector,http://dummyimage.com/112x100.png/ff4444/ffffff
+ky-7k,Dollar,Ml1-51M4,10,Conference Hall,R7d-584e,Asteraceae,2,Air Conditioner,http://dummyimage.com/139x100.png/5fa2dd/ffffff
+DH-8I,Baht,bmJ-74S4,7,Conference Hall,59S-80bM,Parmeliaceae,5,Projector,http://dummyimage.com/102x100.png/5fa2dd/ffffff
+h7-9K,Lek,d7a-35GB,5,Conference Hall,v6o-35iX,Cyperaceae,5,Duster,http://dummyimage.com/202x100.png/5fa2dd/ffffff
+x6-2G,Rupiah,gFg-73ZF,3,Conference Hall,g6I-570l,Grimmiaceae,0,Marker,http://dummyimage.com/109x100.png/5fa2dd/ffffff
+SE-1P,Yuan Renminbi,Dyl-45A9,4,Conference Hall,B8U-96hO,Asteraceae,4,Marker,http://dummyimage.com/100x100.png/ff4444/ffffff
+NQ-5a,Zloty,pmm-95Fb,7,Conference Hall,z6B-769s,Rosaceae,5,Air Conditioner,http://dummyimage.com/219x100.png/dddddd/000000
+W2-42,Ruble,k0K-06KG,5,Conference Hall,06y-14YV,Hydrophyllaceae,7,Duster,http://dummyimage.com/139x100.png/ff4444/ffffff
+II-2C,Sol,TtB-48wk,9,Conference Hall,e21-98Ew,Asteraceae,2,Monitor,http://dummyimage.com/174x100.png/5fa2dd/ffffff
+jz-6w,Yuan Renminbi,YVs-01Fj,10,Conference Hall,U0i-99bT,Fabaceae,1,Projector,http://dummyimage.com/203x100.png/dddddd/000000
+G2-72,Kuna,coM-66EI,4,Conference Hall,76D-40JM,Crassulaceae,6,Monitor,http://dummyimage.com/238x100.png/5fa2dd/ffffff
+oq-3E,Yuan Renminbi,993-17je,5,Conference Hall,k9Q-029U,Teloschistaceae,7,Marker,http://dummyimage.com/185x100.png/dddddd/000000
+mu-2C,Euro,Jal-12Yq,5,Conference Hall,n11-946x,Fumariaceae,2,Water Filter,http://dummyimage.com/167x100.png/ff4444/ffffff
+aA-0m,Yuan Renminbi,Z5S-04Ic,9,Conference Hall,S8l-15MX,Solanaceae,7,Marker,http://dummyimage.com/128x100.png/dddddd/000000
+HY-5g,Rupiah,Chq-04ek,1,Cubicle,s70-40fK,Dryopteridaceae,6,Water Filter,http://dummyimage.com/105x100.png/5fa2dd/ffffff
+Rg-2K,Yuan Renminbi,r50-87CV,6,Conference Hall,v6X-97KY,Polygonaceae,1,Projector,http://dummyimage.com/167x100.png/5fa2dd/ffffff
+Ib-7Y,Peso,cMz-03oW,7,Conference Hall,y1u-17wn,Rosaceae,1,Projector,http://dummyimage.com/202x100.png/dddddd/000000
+W6-0W,Ruble,gKS-608L,4,Conference Hall,t31-37iq,Cyperaceae,0,Air Conditioner,http://dummyimage.com/160x100.png/dddddd/000000
+cm-0P,Yuan Renminbi,UEt-74Fr,2,Cubicle,S0e-77NX,Asteraceae,2,Marker,http://dummyimage.com/214x100.png/cc0000/ffffff
+ai-61,Pound,Nkq-19TH,5,Conference Hall,h91-45QZ,Brassicaceae,0,Duster,http://dummyimage.com/176x100.png/cc0000/ffffff
+BY-1T,Pound,A80-79nG,5,Conference Hall,y3E-08rK,Ranunculaceae,6,Projector,http://dummyimage.com/221x100.png/5fa2dd/ffffff
+xg-7G,Rupiah,zCh-9434,4,Conference Hall,n7c-80Xs,Euphorbiaceae,7,Duster,http://dummyimage.com/184x100.png/dddddd/000000
+Ae-91,Euro,pTy-54ak,10,Conference Hall,J3w-809K,Liliaceae,7,Air Conditioner,http://dummyimage.com/162x100.png/ff4444/ffffff
+IT-9u,Euro,CBZ-22UE,2,Cubicle,F1y-05Az,Fagaceae,3,Water Filter,http://dummyimage.com/181x100.png/dddddd/000000
+xM-85,Yuan Renminbi,goG-233N,4,Conference Hall,18Y-37LT,Nyctaginaceae,9,Air Conditioner,http://dummyimage.com/124x100.png/cc0000/ffffff
+gT-37,Cordoba,g7m-09lU,10,Conference Hall,91A-088k,Caryophyllaceae,8,Projector,http://dummyimage.com/171x100.png/dddddd/000000
+Xx-5X,Koruna,a7L-79Qf,2,Conference Hall,n99-57Hl,Hymeneliaceae,8,Marker,http://dummyimage.com/125x100.png/ff4444/ffffff
+oo-7r,Peso,clt-99Iq,1,Cubicle,I43-03ja,Poaceae,2,Water Filter,http://dummyimage.com/102x100.png/dddddd/000000
+7R-8i,Hryvnia,RWn-625o,4,Conference Hall,q9I-51o1,Saxifragaceae,6,Monitor,http://dummyimage.com/206x100.png/ff4444/ffffff
+zE-1T,Yuan Renminbi,W5P-37R3,8,Conference Hall,Y7X-20o1,Onagraceae,0,Projector,http://dummyimage.com/116x100.png/5fa2dd/ffffff
+Bv-78,Yuan Renminbi,hRa-45T8,4,Conference Hall,y9R-40H6,Liliaceae,1,Duster,http://dummyimage.com/144x100.png/dddddd/000000
+8o-0N,Dram,JgS-72wl,4,Conference Hall,038-61U6,Grossulariaceae,0,Duster,http://dummyimage.com/169x100.png/ff4444/ffffff
+DY-3F,Yuan Renminbi,Eeq-579g,9,Conference Hall,G9n-62GQ,Rosaceae,1,Duster,http://dummyimage.com/174x100.png/ff4444/ffffff
+eX-9h,Afghani,68L-97xV,9,Conference Hall,l8X-05ig,Boraginaceae,5,Water Filter,http://dummyimage.com/197x100.png/cc0000/ffffff
+aN-7H,Ruble,tBS-38C9,4,Conference Hall,c7T-91CE,Boraginaceae,7,Monitor,http://dummyimage.com/122x100.png/5fa2dd/ffffff
+km-3l,Hryvnia,0Gf-869Y,9,Conference Hall,Y0G-42Es,Pinaceae,4,Duster,http://dummyimage.com/108x100.png/ff4444/ffffff
+2R-64,Zloty,FJf-35pZ,1,Conference Hall,I3p-87sk,Malvaceae,4,Marker,http://dummyimage.com/210x100.png/ff4444/ffffff
+Yb-7F,Zloty,zG7-10mj,7,Conference Hall,j0O-93E0,Cyperaceae,6,Monitor,http://dummyimage.com/211x100.png/ff4444/ffffff
+b5-7y,Peso,yZx-09pF,8,Conference Hall,T1U-59vR,Dicksoniaceae,0,Water Filter,http://dummyimage.com/230x100.png/5fa2dd/ffffff
+Dp-1e,Euro,OnN-02x8,5,Conference Hall,C0I-84Ti,Cactaceae,1,Monitor,http://dummyimage.com/161x100.png/dddddd/000000
+ni-96,Yuan Renminbi,h6x-20NK,2,Conference Hall,C9C-13ho,Chenopodiaceae,2,Air Conditioner,http://dummyimage.com/234x100.png/dddddd/000000
+3j-4Z,Peso,p9W-76Og,2,Conference Hall,K1W-03Et,Rubiaceae,9,Marker,http://dummyimage.com/167x100.png/cc0000/ffffff
+Y0-1v,Krona,fVH-90mf,10,Conference Hall,K4Y-13im,Scrophulariaceae,7,Duster,http://dummyimage.com/147x100.png/cc0000/ffffff
+9K-4K,Yuan Renminbi,BzI-28C6,4,Conference Hall,r4I-336c,Acarosporaceae,2,Monitor,http://dummyimage.com/100x100.png/5fa2dd/ffffff
+A7-1y,Peso,6iZ-25ab,6,Conference Hall,O7N-70M1,Callicostaceae,1,Air Conditioner,http://dummyimage.com/107x100.png/ff4444/ffffff
+Mb-5W,Lari,NsN-919n,5,Conference Hall,h1t-03lM,Molluginaceae,1,Air Conditioner,http://dummyimage.com/105x100.png/5fa2dd/ffffff
+kR-3O,Peso,UTh-52lx,10,Conference Hall,b2j-97FJ,Cistaceae,9,Marker,http://dummyimage.com/220x100.png/cc0000/ffffff
+rF-0Q,Zloty,Wx3-075f,7,Conference Hall,f78-66yP,Arthoniaceae,5,Monitor,http://dummyimage.com/225x100.png/dddddd/000000
+yJ-4j,Peso,l29-62mV,1,Conference Hall,X0c-68sN,Fabaceae,2,Monitor,http://dummyimage.com/131x100.png/dddddd/000000
+Ra-9R,Yuan Renminbi,JPY-84Et,9,Conference Hall,k2A-13lb,Pyrenulaceae,8,Monitor,http://dummyimage.com/115x100.png/5fa2dd/ffffff
+pG-3O,Dollar,FEE-61qk,4,Conference Hall,x9x-52G0,Liliaceae,0,Duster,http://dummyimage.com/132x100.png/cc0000/ffffff
+v2-4h,Rupee,FS7-64ue,1,Conference Hall,o26-47pT,Agavaceae,0,Monitor,http://dummyimage.com/215x100.png/cc0000/ffffff
+ad-6X,Rupiah,HAj-95N0,2,Cubicle,n1N-18EO,Poaceae,5,Marker,http://dummyimage.com/230x100.png/cc0000/ffffff
+5S-2Q,Yuan Renminbi,fVe-41qW,5,Conference Hall,v0y-965S,Simaroubaceae,2,Water Filter,http://dummyimage.com/180x100.png/dddddd/000000
+Mn-2s,Koruna,V0n-4150,8,Conference Hall,Z1i-367L,Ranunculaceae,8,Marker,http://dummyimage.com/215x100.png/dddddd/000000
+SU-4l,Rial,tII-09sr,7,Conference Hall,r8o-43az,Convolvulaceae,8,Monitor,http://dummyimage.com/244x100.png/5fa2dd/ffffff
+x8-4h,Euro,98T-39iP,1,Conference Hall,73T-93gN,Lamiaceae,5,Air Conditioner,http://dummyimage.com/182x100.png/cc0000/ffffff
+ND-91,Sol,Ymc-49cB,5,Conference Hall,J1u-85hB,Boraginaceae,5,Monitor,http://dummyimage.com/173x100.png/ff4444/ffffff
+AB-2m,Yuan Renminbi,nUT-07H4,5,Conference Hall,008-87L2,Hydrophyllaceae,3,Monitor,http://dummyimage.com/188x100.png/5fa2dd/ffffff
+tB-30,Peso,iOk-86aT,1,Conference Hall,70r-11vQ,Passifloraceae,9,Water Filter,http://dummyimage.com/169x100.png/dddddd/000000
+K5-7l,Rupiah,wVq-97ia,2,Conference Hall,s2A-57j6,Poaceae,9,Duster,http://dummyimage.com/160x100.png/cc0000/ffffff
+mz-21,Dollar,DSb-27NE,4,Conference Hall,N12-44Iw,Poaceae,0,Monitor,http://dummyimage.com/244x100.png/cc0000/ffffff
+Vj-5V,Rupiah,D9i-35Sr,1,Cubicle,T6P-14TU,Polygonaceae,4,Projector,http://dummyimage.com/231x100.png/5fa2dd/ffffff
+NL-4p,Taka,TVg-602D,6,Conference Hall,N7g-060w,Leskeaceae,0,Water Filter,http://dummyimage.com/211x100.png/ff4444/ffffff
+gn-6F,Ruble,gWj-783B,2,Conference Hall,g8k-89Rk,Boraginaceae,9,Monitor,http://dummyimage.com/155x100.png/5fa2dd/ffffff
+jy-9j,Rupiah,y8B-77TP,4,Conference Hall,b8t-11ll,Cactaceae,9,Projector,http://dummyimage.com/186x100.png/cc0000/ffffff
+YI-1r,Euro,xUe-72u4,2,Conference Hall,o88-25SA,Blechnaceae,3,Projector,http://dummyimage.com/207x100.png/ff4444/ffffff
+Qm-4b,Koruna,a8s-56KB,8,Conference Hall,P9r-82PY,Scrophulariaceae,1,Water Filter,http://dummyimage.com/204x100.png/5fa2dd/ffffff
+uK-13,Ruble,BOZ-15PS,9,Conference Hall,G2Y-685J,Celastraceae,3,Air Conditioner,http://dummyimage.com/157x100.png/cc0000/ffffff
+ih-8M,Peso,prX-10CP,6,Conference Hall,x3C-71Na,Araceae,9,Projector,http://dummyimage.com/166x100.png/dddddd/000000
+6g-7v,Hryvnia,hlt-69Eg,8,Conference Hall,g61-332m,Physciaceae,1,Monitor,http://dummyimage.com/138x100.png/cc0000/ffffff
+e9-0n,Yuan Renminbi,cGX-44F9,10,Conference Hall,K6Q-6295,Aspleniaceae,0,Duster,http://dummyimage.com/162x100.png/5fa2dd/ffffff
+2A-7L,Peso,wAv-57xa,9,Conference Hall,C7a-95y3,Leskeaceae,6,Projector,http://dummyimage.com/194x100.png/5fa2dd/ffffff
+JP-8Z,Rupiah,TJR-60Eo,1,Cubicle,W2P-77Yy,Convolvulaceae,2,Projector,http://dummyimage.com/170x100.png/dddddd/000000
+0t-9z,Ruble,vlq-541f,1,Cubicle,F8P-45UE,Oleaceae,3,Projector,http://dummyimage.com/189x100.png/cc0000/ffffff
+yA-7z,Dollar,If3-55PY,5,Conference Hall,m2O-50k8,Dioscoreaceae,3,Projector,http://dummyimage.com/250x100.png/5fa2dd/ffffff
+do-1J,Rupiah,uUg-10bi,6,Conference Hall,B4N-07ee,Campanulaceae,5,Marker,http://dummyimage.com/233x100.png/dddddd/000000
+df-65,Peso,1Jn-36hd,4,Conference Hall,Q33-63rv,Liliaceae,3,Projector,http://dummyimage.com/108x100.png/5fa2dd/ffffff
+3q-6w,Yuan Renminbi,m3x-287T,7,Conference Hall,D3e-08R5,Pertusariaceae,8,Air Conditioner,http://dummyimage.com/241x100.png/ff4444/ffffff
+ST-7V,Franc,JXQ-48rq,2,Cubicle,G8X-51fA,Onagraceae,9,Projector,http://dummyimage.com/221x100.png/5fa2dd/ffffff
+uU-5l,Yuan Renminbi,IWk-66zb,7,Conference Hall,r9W-06yQ,Boraginaceae,7,Monitor,http://dummyimage.com/124x100.png/ff4444/ffffff
+0L-9G,Yuan Renminbi,pZX-99K6,2,Cubicle,j6T-17lS,Acarosporaceae,6,Air Conditioner,http://dummyimage.com/102x100.png/ff4444/ffffff
+Lv-1U,Yuan Renminbi,VBb-431w,7,Conference Hall,31D-17lS,Physciaceae,1,Water Filter,http://dummyimage.com/246x100.png/ff4444/ffffff
+k6-3w,Hryvnia,69d-73B8,3,Conference Hall,V4h-11u6,Cyperaceae,6,Projector,http://dummyimage.com/207x100.png/cc0000/ffffff
+Ud-8p,Rupiah,Qio-50v0,1,Conference Hall,068-84hi,Malvaceae,0,Water Filter,http://dummyimage.com/226x100.png/5fa2dd/ffffff
+VQ-5E,Peso,lha-94LX,10,Conference Hall,g1R-85zZ,Flacourtiaceae,0,Duster,http://dummyimage.com/227x100.png/dddddd/000000
+Sb-84,Dollar,BTU-95RP,2,Conference Hall,D4q-04yh,Alectoriaceae,9,Projector,http://dummyimage.com/178x100.png/ff4444/ffffff
+RD-05,Euro,ZZj-54nP,9,Conference Hall,n3W-2275,Asteraceae,5,Monitor,http://dummyimage.com/162x100.png/5fa2dd/ffffff
+8X-8l,Gourde,BOP-552o,10,Conference Hall,20U-905T,Fabaceae,9,Water Filter,http://dummyimage.com/147x100.png/dddddd/000000
+yU-0q,Peso,4GG-48cG,2,Cubicle,P5t-42wL,Asteraceae,9,Marker,http://dummyimage.com/206x100.png/ff4444/ffffff
+V5-3J,Lek,pRX-63e1,4,Conference Hall,G87-56Rr,Polemoniaceae,2,Projector,http://dummyimage.com/221x100.png/ff4444/ffffff
+Mw-3L,Zloty,yI4-20H8,8,Conference Hall,812-57p7,Campanulaceae,2,Air Conditioner,http://dummyimage.com/249x100.png/cc0000/ffffff
+XK-2O,Yuan Renminbi,GQD-98BF,3,Conference Hall,v7X-12uK,Araceae,2,Air Conditioner,http://dummyimage.com/108x100.png/dddddd/000000
+9O-2T,Yuan Renminbi,4U7-5085,8,Conference Hall,B4b-23pc,Violaceae,9,Air Conditioner,http://dummyimage.com/125x100.png/ff4444/ffffff
+2u-4A,Euro,C1M-43JE,5,Conference Hall,A3R-44xG,Liliaceae,5,Monitor,http://dummyimage.com/196x100.png/cc0000/ffffff
+Ib-7G,Peso,bmJ-74S4,10,Conference Hall,N7g-68ga,Rosaceae,6,Water Filter,http://dummyimage.com/137x100.png/cc0000/ffffff
+QL-2G,Peso,scS-65xz,10,Conference Hall,B4Z-16Up,Orchidaceae,4,Duster,http://dummyimage.com/123x100.png/cc0000/ffffff
+zT-6A,Sol,Mpo-85QZ,7,Conference Hall,67P-66uF,Asteraceae,6,Projector,http://dummyimage.com/244x100.png/ff4444/ffffff
+vh-1m,Yuan Renminbi,xSo-05PH,1,Cubicle,h4e-2642,Scrophulariaceae,9,Air Conditioner,http://dummyimage.com/144x100.png/ff4444/ffffff
+zc-9O,Yuan Renminbi,i8o-38Wc,8,Conference Hall,N12-44Iw,Poaceae,5,Monitor,http://dummyimage.com/117x100.png/dddddd/000000
+EI-4f,Lempira,MVp-427Q,10,Conference Hall,h91-45QZ,Brassicaceae,6,Projector,http://dummyimage.com/113x100.png/dddddd/000000
+9m-7b,Peso,iWc-6586,7,Conference Hall,G9n-62GQ,Rosaceae,7,Projector,http://dummyimage.com/106x100.png/5fa2dd/ffffff
+ce-6d,Peso,2A4-69tP,6,Conference Hall,g5e-18Lx,Fagaceae,6,Air Conditioner,http://dummyimage.com/162x100.png/dddddd/000000
+Ga-0m,Euro,h9V-42C4,8,Conference Hall,V4w-20Wi,Scrophulariaceae,9,Marker,http://dummyimage.com/138x100.png/dddddd/000000
+Qr-6Z,Rupiah,iOk-86aT,8,Conference Hall,k34-64c6,Cyperaceae,7,Monitor,http://dummyimage.com/154x100.png/ff4444/ffffff
+kP-70,Yuan Renminbi,ALk-81jk,6,Conference Hall,P91-22D2,Linaceae,5,Air Conditioner,http://dummyimage.com/186x100.png/5fa2dd/ffffff
+pr-9x,Dollar,nBZ-68t8,6,Conference Hall,q35-37h9,Polygonaceae,6,Air Conditioner,http://dummyimage.com/168x100.png/5fa2dd/ffffff
+PM-9e,Yuan Renminbi,qKW-61G8,6,Conference Hall,M5s-18wB,Hypnaceae,0,Water Filter,http://dummyimage.com/173x100.png/5fa2dd/ffffff
+48-9c,Lek,s0P-59Dz,10,Conference Hall,Q2T-15FM,Cyperaceae,9,Air Conditioner,http://dummyimage.com/177x100.png/5fa2dd/ffffff
+Ax-9S,Euro,Gzl-90mV,2,Cubicle,I0t-59Up,Cactaceae,0,Water Filter,http://dummyimage.com/162x100.png/dddddd/000000
+rs-6Y,Dollar,k03-902t,7,Conference Hall,B4N-07ee,Campanulaceae,7,Air Conditioner,http://dummyimage.com/145x100.png/cc0000/ffffff
+pM-8P,Yuan Renminbi,pNA-61xN,3,Conference Hall,038-61U6,Grossulariaceae,3,Projector,http://dummyimage.com/136x100.png/cc0000/ffffff
+hq-3z,Ruble,BYw-35DS,8,Conference Hall,v7X-12uK,Araceae,1,Monitor,http://dummyimage.com/120x100.png/5fa2dd/ffffff
+DT-00,Shekel,uRA-55gl,8,Conference Hall,78b-83gH,Ranunculaceae,9,Water Filter,http://dummyimage.com/216x100.png/cc0000/ffffff
+Uo-6D,Rupiah,jDr-36d2,1,Conference Hall,I1e-50vg,Fabaceae,8,Air Conditioner,http://dummyimage.com/151x100.png/5fa2dd/ffffff
+We-3S,Real,9J9-99pZ,2,Conference Hall,u7w-51D6,Caryophyllaceae,5,Projector,http://dummyimage.com/113x100.png/5fa2dd/ffffff
+2I-34,Yuan Renminbi,91J-81Rk,4,Conference Hall,q9l-085v,Fabaceae,2,Water Filter,http://dummyimage.com/147x100.png/cc0000/ffffff
+YR-3v,Ruble,WJI-41yU,1,Cubicle,B4b-23pc,Violaceae,2,Projector,http://dummyimage.com/134x100.png/dddddd/000000
+nL-6m,Hryvnia,96a-611t,4,Conference Hall,b8T-97XG,Caryophyllaceae,3,Monitor,http://dummyimage.com/226x100.png/dddddd/000000
+qa-08,Krona,fbx-33Ic,5,Conference Hall,91A-088k,Caryophyllaceae,2,Air Conditioner,http://dummyimage.com/205x100.png/dddddd/000000
+iK-4P,Rupiah,t3K-97cw,1,Cubicle,A1f-45bn,Fabaceae,3,Marker,http://dummyimage.com/101x100.png/ff4444/ffffff
+J2-2W,Yuan Renminbi,HLB-72AH,3,Conference Hall,I8U-07H8,Poaceae,6,Projector,http://dummyimage.com/203x100.png/ff4444/ffffff
+xS-18,Koruna,spg-98Mq,10,Conference Hall,A2P-75hY,Fabaceae,2,Monitor,http://dummyimage.com/188x100.png/cc0000/ffffff
+lf-1e,Rupee,WHh-98gu,7,Conference Hall,v6u-88UY,Boraginaceae,2,Air Conditioner,http://dummyimage.com/135x100.png/cc0000/ffffff
+nE-2S,Real,oGk-06US,1,Cubicle,l99-07V2,Solanaceae,9,Water Filter,http://dummyimage.com/201x100.png/ff4444/ffffff
+mh-8g,Yuan Renminbi,pZX-99K6,5,Conference Hall,g6I-570l,Grimmiaceae,6,Duster,http://dummyimage.com/197x100.png/dddddd/000000
+T0-8F,Ruble,QT8-70YI,6,Conference Hall,O8J-07YI,Cactaceae,9,Air Conditioner,http://dummyimage.com/244x100.png/ff4444/ffffff
+np-13,Ruble,bf7-19bP,2,Cubicle,L1F-291T,Thelotremataceae,8,Projector,http://dummyimage.com/120x100.png/5fa2dd/ffffff
+eY-6r,Real,xGI-14i1,4,Conference Hall,V0B-27Tt,Ochnaceae,9,Monitor,http://dummyimage.com/100x100.png/ff4444/ffffff
+Hf-0o,Dong,mTV-69z8,10,Conference Hall,777-239t,Malvaceae,9,Air Conditioner,http://dummyimage.com/139x100.png/dddddd/000000
+An-6k,Yuan Renminbi,WdM-59Zo,9,Conference Hall,I1T-43oX,Rosaceae,5,Marker,http://dummyimage.com/155x100.png/dddddd/000000
+Cy-86,Tenge,ZX1-30Vz,2,Cubicle,c1H-41Y6,Malpighiaceae,6,Air Conditioner,http://dummyimage.com/154x100.png/dddddd/000000
+fD-07,Euro,l29-62mV,3,Conference Hall,u3F-90nF,Zosteraceae,0,Air Conditioner,http://dummyimage.com/224x100.png/5fa2dd/ffffff
+cM-9x,Euro,sre-78j7,4,Conference Hall,z1a-58kz,Dilleniaceae,7,Duster,http://dummyimage.com/158x100.png/ff4444/ffffff
+Yh-94,Ruble,5SD-56tY,3,Conference Hall,F1o-36sk,Polygonaceae,0,Air Conditioner,http://dummyimage.com/248x100.png/cc0000/ffffff
+o4-3w,Boliviano,ehI-97dO,7,Conference Hall,v1z-57LT,Asteraceae,6,Marker,http://dummyimage.com/192x100.png/dddddd/000000
+eD-1o,Euro,IMB-71io,1,Conference Hall,I3d-13zt,Liliaceae,8,Projector,http://dummyimage.com/180x100.png/5fa2dd/ffffff
+R4-8D,Rupiah,Hpo-03js,4,Conference Hall,71r-76ye,Moraceae,1,Duster,http://dummyimage.com/191x100.png/ff4444/ffffff
+4C-85,Lilangeni,Vg6-28n0,8,Conference Hall,Z4e-84Kc,Pontederiaceae,5,Air Conditioner,http://dummyimage.com/120x100.png/5fa2dd/ffffff
+Fi-4y,Ngultrum,hox-745t,1,Cubicle,T1W-70QR,Fagaceae,8,Projector,http://dummyimage.com/224x100.png/dddddd/000000
+wW-9w,Yuan Renminbi,y2h-25s9,5,Conference Hall,q75-8054,Fabaceae,5,Projector,http://dummyimage.com/233x100.png/5fa2dd/ffffff
+we-9q,Yuan Renminbi,vu3-89do,6,Conference Hall,G7d-195q,Euphorbiaceae,6,Duster,http://dummyimage.com/110x100.png/ff4444/ffffff
+X6-4U,Yuan Renminbi,tun-56PP,2,Conference Hall,q3r-20sa,Cyperaceae,6,Projector,http://dummyimage.com/188x100.png/cc0000/ffffff
+kq-4v,Dollar,Jl6-59i1,5,Conference Hall,q1d-8855,Poaceae,4,Monitor,http://dummyimage.com/180x100.png/5fa2dd/ffffff
+vo-2g,Krona,BcX-59OF,4,Conference Hall,b0C-552p,Fagaceae,9,Projector,http://dummyimage.com/199x100.png/ff4444/ffffff
+YI-3E,Yuan Renminbi,kwM-31KV,2,Cubicle,h0a-39uY,Trapeliaceae,5,Marker,http://dummyimage.com/249x100.png/dddddd/000000
+Aw-9k,Rupiah,FnN-63pQ,3,Conference Hall,M9f-34ue,Apocynaceae,7,Monitor,http://dummyimage.com/167x100.png/cc0000/ffffff
+4G-4s,Sol,EfU-69rh,10,Conference Hall,418-4219,Gentianaceae,2,Duster,http://dummyimage.com/223x100.png/dddddd/000000
+gs-3h,Yuan Renminbi,KRB-33pj,9,Conference Hall,M7Q-47Pd,Asteraceae,7,Monitor,http://dummyimage.com/107x100.png/dddddd/000000
+4c-8u,Peso,z2L-425b,8,Conference Hall,j69-91Er,Sphagnaceae,9,Marker,http://dummyimage.com/200x100.png/cc0000/ffffff
+fH-5b,Franc,FES-85Ti,2,Conference Hall,G5j-660q,Pteridaceae,0,Marker,http://dummyimage.com/218x100.png/ff4444/ffffff
+R1-05,Rupiah,6nm-60Nw,9,Conference Hall,d3o-75WU,Polygonaceae,8,Water Filter,http://dummyimage.com/225x100.png/dddddd/000000
+qU-5B,Yuan Renminbi,gKS-608L,2,Conference Hall,d8J-59wg,Teloschistaceae,2,Air Conditioner,http://dummyimage.com/130x100.png/cc0000/ffffff
+Xk-3e,Dollar,iaY-84Oo,8,Conference Hall,u20-95ab,Arthoniaceae,6,Projector,http://dummyimage.com/143x100.png/ff4444/ffffff
+Sh-45,Krone,5ns-05m0,1,Cubicle,n8q-29xc,Asteraceae,6,Marker,http://dummyimage.com/136x100.png/5fa2dd/ffffff
+M0-9s,Euro,prr-62Fg,4,Conference Hall,k2A-13lb,Pyrenulaceae,1,Marker,http://dummyimage.com/181x100.png/dddddd/000000
+b3-0V,Real,JwY-20uv,8,Conference Hall,V3k-64Gl,Gentianaceae,6,Marker,http://dummyimage.com/178x100.png/ff4444/ffffff
+sx-4u,Yuan Renminbi,LUQ-86gv,6,Conference Hall,N7g-060w,Leskeaceae,2,Projector,http://dummyimage.com/201x100.png/ff4444/ffffff
+ML-1K,Som,cGX-44F9,8,Conference Hall,r5c-17o5,Fabaceae,0,Monitor,http://dummyimage.com/204x100.png/5fa2dd/ffffff
+zJ-0K,Krona,pJP-73eG,1,Conference Hall,Z3M-4004,Physciaceae,8,Air Conditioner,http://dummyimage.com/119x100.png/dddddd/000000
+UI-3m,Rupiah,GfY-99xY,1,Cubicle,W2P-77Yy,Convolvulaceae,6,Duster,http://dummyimage.com/201x100.png/5fa2dd/ffffff
+YD-9A,Ruble,xkp-33YX,6,Conference Hall,07b-23Of,Apiaceae,9,Water Filter,http://dummyimage.com/135x100.png/ff4444/ffffff
+Gr-1C,Yuan Renminbi,z33-29DI,8,Conference Hall,B84-48vw,Buddlejaceae,4,Duster,http://dummyimage.com/162x100.png/dddddd/000000
+Is-6Z,Peso,pm8-82rm,6,Conference Hall,g9V-88XM,Orchidaceae,7,Monitor,http://dummyimage.com/250x100.png/dddddd/000000
+x7-8i,Euro,CyC-58Of,4,Conference Hall,B48-48qR,Caryophyllaceae,3,Air Conditioner,http://dummyimage.com/137x100.png/cc0000/ffffff
+9p-1u,Euro,2jh-27G4,4,Conference Hall,A4g-10jQ,Apiaceae,4,Projector,http://dummyimage.com/181x100.png/5fa2dd/ffffff
+QV-8S,Yuan Renminbi,MqQ-22zC,3,Conference Hall,60y-33sd,Rosaceae,2,Projector,http://dummyimage.com/166x100.png/dddddd/000000
+ne-3B,Zloty,YVs-01Fj,6,Conference Hall,30Y-96vb,Orchidaceae,3,Monitor,http://dummyimage.com/231x100.png/5fa2dd/ffffff
+jt-9Z,Rupiah,moH-2197,8,Conference Hall,x15-63Hn,Boraginaceae,0,Water Filter,http://dummyimage.com/220x100.png/dddddd/000000
+ay-5q,Rupiah,aXw-12dq,10,Conference Hall,38B-78JC,Hydrophyllaceae,5,Air Conditioner,http://dummyimage.com/157x100.png/5fa2dd/ffffff
+tC-0Z,Dollar,kmy-705r,9,Conference Hall,o79-02Yz,Diapensiaceae,5,Marker,http://dummyimage.com/104x100.png/dddddd/000000
+ui-78,Lempira,73R-25UT,7,Conference Hall,H82-21Kh,Convolvulaceae,9,Water Filter,http://dummyimage.com/233x100.png/5fa2dd/ffffff
+Nf-3i,Rupiah,Qwm-46Le,3,Conference Hall,v6U-75rI,Cyperaceae,7,Monitor,http://dummyimage.com/188x100.png/dddddd/000000
+N3-0L,Ruble,a7j-15Ey,6,Conference Hall,h49-90Dm,Brassicaceae,8,Monitor,http://dummyimage.com/177x100.png/ff4444/ffffff
+m9-7e,Som,WvQ-64zz,2,Conference Hall,Y5R-59iG,Rhamnaceae,1,Water Filter,http://dummyimage.com/210x100.png/cc0000/ffffff
+XL-3b,Shekel,fjz-37wB,2,Cubicle,L8C-78Dv,Fabaceae,3,Duster,http://dummyimage.com/198x100.png/cc0000/ffffff
+4u-4p,Leu,oN3-93uB,2,Conference Hall,t8A-08NE,Convolvulaceae,7,Duster,http://dummyimage.com/126x100.png/cc0000/ffffff
+XB-1Y,Afghani,mDF-90wy,5,Conference Hall,X0k-03Vw,Juncaceae,1,Water Filter,http://dummyimage.com/153x100.png/ff4444/ffffff
+0X-8a,Euro,Kvb-29Pe,4,Conference Hall,V4M-39ai,Physciaceae,4,Marker,http://dummyimage.com/101x100.png/cc0000/ffffff
+sI-92,Yuan Renminbi,f1p-07C7,2,Conference Hall,K4j-16Kv,Hypnaceae,4,Duster,http://dummyimage.com/161x100.png/cc0000/ffffff
+7x-7R,Rupiah,Z5t-88TU,5,Conference Hall,d8b-077A,Lichinaceae,3,Air Conditioner,http://dummyimage.com/189x100.png/dddddd/000000
+Dk-3P,Ruble,paX-65BA,7,Conference Hall,g61-332m,Physciaceae,8,Projector,http://dummyimage.com/195x100.png/5fa2dd/ffffff
+qq-0x,Zloty,tLr-11xy,7,Conference Hall,L9T-17Zy,Bacidiaceae,2,Duster,http://dummyimage.com/161x100.png/cc0000/ffffff
+LI-95,Zloty,FI1-88Ll,9,Conference Hall,c1L-3288,Asteraceae,1,Water Filter,http://dummyimage.com/249x100.png/ff4444/ffffff
+RT-9g,Rupiah,ySF-81l0,10,Conference Hall,x3C-71Na,Araceae,3,Duster,http://dummyimage.com/199x100.png/ff4444/ffffff
+fN-3C,Yuan Renminbi,Jj3-84jy,2,Conference Hall,P5t-42wL,Asteraceae,3,Water Filter,http://dummyimage.com/107x100.png/ff4444/ffffff
+UZ-0n,Lempira,kmL-04DM,1,Conference Hall,U3f-3422,Brachytheciaceae,0,Projector,http://dummyimage.com/191x100.png/cc0000/ffffff
+Aq-1J,Dollar,zXu-22Yi,3,Conference Hall,G3H-966Q,Euphorbiaceae,6,Monitor,http://dummyimage.com/247x100.png/dddddd/000000
+wv-98,Yuan Renminbi,BbR-54Ym,2,Conference Hall,e2j-87HG,Plantaginaceae,9,Monitor,http://dummyimage.com/242x100.png/ff4444/ffffff
+if-9a,Peso,MVt-16pq,5,Conference Hall,71t-57OD,Dicranaceae,4,Monitor,http://dummyimage.com/234x100.png/5fa2dd/ffffff
+Rg-90,Peso,x4N-89FU,8,Conference Hall,K4Y-13im,Scrophulariaceae,4,Duster,http://dummyimage.com/224x100.png/dddddd/000000
+nm-2h,Yuan Renminbi,A5P-81J0,3,Conference Hall,Q8F-44t9,Portulacaceae,7,Monitor,http://dummyimage.com/198x100.png/cc0000/ffffff
+Wj-2I,Ruble,Bly-56G2,10,Conference Hall,O1N-27mi,Poaceae,6,Projector,http://dummyimage.com/194x100.png/dddddd/000000
+Jt-5j,Peso,4bz-92uu,8,Conference Hall,n3W-2275,Asteraceae,7,Duster,http://dummyimage.com/122x100.png/dddddd/000000
+Nq-4i,Tala,2Iv-63ad,6,Conference Hall,d4y-0362,Brassicaceae,7,Monitor,http://dummyimage.com/226x100.png/dddddd/000000
+G1-06,Yuan Renminbi,xBZ-32wC,5,Conference Hall,w9b-45Ox,Boraginaceae,8,Air Conditioner,http://dummyimage.com/163x100.png/dddddd/000000
+YQ-5o,Euro,j4G-05h1,1,Cubicle,W84-56Ni,Fabaceae,0,Marker,http://dummyimage.com/248x100.png/ff4444/ffffff
+wF-2g,Rupee,A9F-75dc,7,Conference Hall,W4G-859E,Cornaceae,4,Air Conditioner,http://dummyimage.com/154x100.png/ff4444/ffffff
+an-2y,Dollar,rNE-99uZ,5,Conference Hall,R2s-975m,Celastraceae,4,Air Conditioner,http://dummyimage.com/237x100.png/ff4444/ffffff
+B2-8B,Quetzal,CBZ-22UE,3,Conference Hall,q0q-97rS,Cupressaceae,0,Projector,http://dummyimage.com/174x100.png/dddddd/000000
+GO-4y,Lev,6DV-36AF,4,Conference Hall,e3F-42Y9,Polygonaceae,0,Monitor,http://dummyimage.com/102x100.png/dddddd/000000
+2s-8j,Euro,ZyB-48L5,2,Cubicle,H3v-91iq,Poaceae,7,Marker,http://dummyimage.com/146x100.png/cc0000/ffffff
+LM-8T,Real,ml4-62dj,3,Conference Hall,v6g-30Nj,Asteraceae,5,Duster,http://dummyimage.com/202x100.png/5fa2dd/ffffff
+nK-3H,Peso,G5v-69OI,1,Cubicle,p3J-50LO,Asteraceae,9,Water Filter,http://dummyimage.com/156x100.png/5fa2dd/ffffff
+Ed-4L,Yuan Renminbi,ZPn-54wz,7,Conference Hall,F9Q-51N5,Aizoaceae,2,Monitor,http://dummyimage.com/231x100.png/cc0000/ffffff
+K2-1J,Real,cJ1-63OH,2,Conference Hall,20U-905T,Fabaceae,4,Marker,http://dummyimage.com/130x100.png/cc0000/ffffff
+1z-5Q,Dollar,tpx-19QW,7,Conference Hall,e7E-10gB,Liliaceae,9,Marker,http://dummyimage.com/101x100.png/cc0000/ffffff
+lE-7P,Euro,w29-82m0,4,Conference Hall,06r-13L6,Physciaceae,2,Monitor,http://dummyimage.com/239x100.png/dddddd/000000
+Vc-1s,Peso,PEY-27eC,7,Conference Hall,s2e-80ID,Poaceae,5,Air Conditioner,http://dummyimage.com/143x100.png/5fa2dd/ffffff
+Do-9N,Euro,gXB-86yL,4,Conference Hall,o0H-241u,Apiaceae,0,Air Conditioner,http://dummyimage.com/242x100.png/dddddd/000000
+0X-6U,Naira,H4o-9803,2,Cubicle,l1j-8254,Asteraceae,9,Marker,http://dummyimage.com/175x100.png/dddddd/000000
+Ku-2g,Ruble,nUT-07H4,5,Conference Hall,D3B-46Is,Asteraceae,7,Duster,http://dummyimage.com/113x100.png/ff4444/ffffff
+cX-2x,Peso,KfU-90rX,1,Cubicle,F3A-3632,Piperaceae,3,Projector,http://dummyimage.com/242x100.png/dddddd/000000
+WF-3D,Sol,YJK-054Z,4,Conference Hall,32j-05lz,Apiaceae,5,Marker,http://dummyimage.com/210x100.png/5fa2dd/ffffff
+YZ-4k,Peso,ulc-84Sa,3,Conference Hall,c8x-8185,Saxifragaceae,8,Monitor,http://dummyimage.com/182x100.png/5fa2dd/ffffff
+j1-1K,Ruble,rfa-67wF,8,Conference Hall,U8P-40Bf,Rosaceae,2,Duster,http://dummyimage.com/192x100.png/dddddd/000000
+Sg-1J,Yuan Renminbi,dWx-08PI,6,Conference Hall,e8x-23w9,Caryophyllaceae,3,Projector,http://dummyimage.com/194x100.png/ff4444/ffffff
+ny-0w,Rupiah,ZKm-49DU,3,Conference Hall,c9x-91SA,Orchidaceae,7,Water Filter,http://dummyimage.com/107x100.png/dddddd/000000
+Kk-6v,Rupiah,Zlz-41qz,9,Conference Hall,p9r-00xW,Chenopodiaceae,1,Monitor,http://dummyimage.com/169x100.png/ff4444/ffffff
+Yk-06,Won,Thd-18ZF,4,Conference Hall,K70-38hA,Salicaceae,5,Marker,http://dummyimage.com/105x100.png/5fa2dd/ffffff
+rs-8u,Yuan Renminbi,aHn-90u3,10,Conference Hall,z61-14vX,Fabaceae,9,Marker,http://dummyimage.com/209x100.png/5fa2dd/ffffff
+bM-19,Euro,UTh-52lx,5,Conference Hall,R9o-29BF,Tamaricaceae,2,Projector,http://dummyimage.com/151x100.png/ff4444/ffffff
+L1-0q,Krona,nhD-11c8,10,Conference Hall,t41-7783,Potamogetonaceae,8,Monitor,http://dummyimage.com/225x100.png/ff4444/ffffff
+SC-3I,Yuan Renminbi,xyl-571g,6,Conference Hall,97I-392k,Liliaceae,7,Duster,http://dummyimage.com/121x100.png/5fa2dd/ffffff
+XV-5L,Yuan Renminbi,gpa-81cg,1,Conference Hall,92Z-51WF,Asteraceae,5,Water Filter,http://dummyimage.com/109x100.png/ff4444/ffffff
+3Y-4w,Yuan Renminbi,30w-31qm,9,Conference Hall,G7a-09sm,Rhamnaceae,5,Water Filter,http://dummyimage.com/205x100.png/cc0000/ffffff
+uB-6V,Yuan Renminbi,Lqw-07zK,2,Cubicle,m2O-50k8,Dioscoreaceae,6,Projector,http://dummyimage.com/125x100.png/5fa2dd/ffffff
+nM-8t,Krona,ySF-81l0,7,Conference Hall,I8U-07H8,Poaceae,2,Marker,http://dummyimage.com/206x100.png/5fa2dd/ffffff
+Qb-5A,Ruble,d6i-26O1,9,Conference Hall,H2y-17TG,Aizoaceae,6,Projector,http://dummyimage.com/167x100.png/5fa2dd/ffffff
+7R-38,Dollar,b35-61iT,2,Conference Hall,H1I-63OY,Saxifragaceae,8,Monitor,http://dummyimage.com/159x100.png/dddddd/000000
+0L-8x,Yuan Renminbi,Eya-15cK,1,Cubicle,F55-88u1,Myrtaceae,8,Projector,http://dummyimage.com/179x100.png/dddddd/000000
+po-4P,Zloty,jEg-10LW,2,Cubicle,f7E-80m1,Malpighiaceae,2,Water Filter,http://dummyimage.com/194x100.png/ff4444/ffffff
+DK-5q,Euro,RzI-67PS,2,Cubicle,f6B-69Pr,Ephedraceae,3,Duster,http://dummyimage.com/145x100.png/5fa2dd/ffffff
+Q3-41,Peso,KCx-57lM,9,Conference Hall,s71-68tK,Porpidiaceae,1,Water Filter,http://dummyimage.com/157x100.png/5fa2dd/ffffff
+8K-9D,Rupiah,cCZ-80Q1,7,Conference Hall,j8N-408j,Liliaceae,6,Marker,http://dummyimage.com/137x100.png/dddddd/000000
+uh-6I,Yuan Renminbi,2Iv-63ad,4,Conference Hall,W9V-92H5,Solanaceae,6,Water Filter,http://dummyimage.com/220x100.png/5fa2dd/ffffff
+Ki-7j,Yuan Renminbi,3mt-39gD,6,Conference Hall,L3d-352Q,Asteraceae,8,Duster,http://dummyimage.com/221x100.png/dddddd/000000
+oY-8b,Euro,Y58-93xw,7,Conference Hall,F4G-54U2,Sphagnaceae,5,Monitor,http://dummyimage.com/227x100.png/dddddd/000000
+0s-9g,Yuan Renminbi,CLD-940S,7,Conference Hall,r4I-336c,Acarosporaceae,7,Monitor,http://dummyimage.com/229x100.png/cc0000/ffffff
+0i-2n,Peso,jL5-41UI,5,Conference Hall,h91-45QZ,Brassicaceae,2,Projector,http://dummyimage.com/205x100.png/5fa2dd/ffffff
+X1-0L,Dinar,6ke-35Qx,8,Conference Hall,Q5f-87jy,Malvaceae,9,Monitor,http://dummyimage.com/192x100.png/ff4444/ffffff
+vZ-5i,Euro,tBS-38C9,6,Conference Hall,d03-19tS,Caryophyllaceae,9,Marker,http://dummyimage.com/216x100.png/cc0000/ffffff
+Lj-8W,Euro,hWN-23xR,2,Conference Hall,81Y-23LR,Butomaceae,5,Marker,http://dummyimage.com/214x100.png/cc0000/ffffff
+FK-1Z,Euro,tpx-19QW,5,Conference Hall,E4B-6793,Primulaceae,3,Marker,http://dummyimage.com/213x100.png/dddddd/000000
+za-5q,Real,oKA-71XS,10,Conference Hall,Z2y-08ZT,Betulaceae,6,Water Filter,http://dummyimage.com/106x100.png/5fa2dd/ffffff
+tc-7L,Yuan Renminbi,pQL-91CU,9,Conference Hall,o7j-83Ds,Poaceae,4,Air Conditioner,http://dummyimage.com/222x100.png/cc0000/ffffff
+sj-7n,Peso,0Gf-869Y,5,Conference Hall,63s-19yo,Scrophulariaceae,8,Monitor,http://dummyimage.com/245x100.png/cc0000/ffffff
+nz-7G,Euro,ASU-03R9,10,Conference Hall,G6f-87jV,Anacardiaceae,8,Marker,http://dummyimage.com/142x100.png/dddddd/000000
+wT-8f,Dram,8wP-43LF,9,Conference Hall,E8A-59jB,Cyperaceae,7,Marker,http://dummyimage.com/193x100.png/cc0000/ffffff
+EI-5l,Euro,Sql-23A9,4,Conference Hall,X0k-03Vw,Juncaceae,1,Duster,http://dummyimage.com/116x100.png/ff4444/ffffff
+5P-8u,Yuan Renminbi,XOI-29Tr,8,Conference Hall,g1R-85zZ,Flacourtiaceae,8,Projector,http://dummyimage.com/227x100.png/cc0000/ffffff
+3h-5Y,Yuan Renminbi,fyc-440D,2,Cubicle,C0o-11Yq,Scrophulariaceae,6,Marker,http://dummyimage.com/181x100.png/dddddd/000000
+4r-2B,Real,FML-89cY,9,Conference Hall,O5J-47sx,Araliaceae,1,Air Conditioner,http://dummyimage.com/158x100.png/dddddd/000000
+yM-6J,Peso,O7Q-36Wp,7,Conference Hall,g9V-88XM,Orchidaceae,0,Air Conditioner,http://dummyimage.com/126x100.png/cc0000/ffffff
+x4-80,Shilling,fjz-37wB,7,Conference Hall,N8K-86g5,Polemoniaceae,2,Duster,http://dummyimage.com/243x100.png/ff4444/ffffff
+1c-27,Quetzal,1Nn-77X7,8,Conference Hall,q7T-39sr,Ophioglossaceae,1,Monitor,http://dummyimage.com/245x100.png/5fa2dd/ffffff
+AV-0X,Euro,ROt-19EB,4,Conference Hall,G1m-14eL,Fagaceae,1,Air Conditioner,http://dummyimage.com/207x100.png/ff4444/ffffff
+e5-6E,Peso,tun-56PP,10,Conference Hall,k2H-58PK,Orchidaceae,0,Projector,http://dummyimage.com/219x100.png/ff4444/ffffff
+nr-8b,Dinar,O5s-16Dd,9,Conference Hall,P9O-87M1,Saxifragaceae,0,Water Filter,http://dummyimage.com/170x100.png/ff4444/ffffff
+YB-8A,Euro,dWx-08PI,8,Conference Hall,N76-0382,Cucurbitaceae,2,Monitor,http://dummyimage.com/121x100.png/dddddd/000000
+f4-3W,Taka,k0K-06KG,1,Cubicle,N7g-060w,Leskeaceae,1,Monitor,http://dummyimage.com/102x100.png/5fa2dd/ffffff
+gH-0F,Rupiah,0TQ-81cw,4,Conference Hall,085-743i,Rosaceae,6,Projector,http://dummyimage.com/210x100.png/cc0000/ffffff
+2L-5w,Rial,vi7-09re,5,Conference Hall,n99-57Hl,Hymeneliaceae,2,Duster,http://dummyimage.com/193x100.png/dddddd/000000
+8b-8u,Yuan Renminbi,Wjv-97dL,2,Cubicle,n0d-890F,Solanaceae,5,Water Filter,http://dummyimage.com/208x100.png/cc0000/ffffff
+mz-74,Zloty,nh2-65Od,1,Conference Hall,f06-08Ir,Linaceae,7,Water Filter,http://dummyimage.com/210x100.png/5fa2dd/ffffff
+EF-5d,Yuan Renminbi,6Dh-01k0,10,Conference Hall,p1J-22Aa,Brassicaceae,4,Marker,http://dummyimage.com/113x100.png/ff4444/ffffff
+I9-2e,Yuan Renminbi,teX-19ue,4,Conference Hall,C12-52mb,Poaceae,6,Marker,http://dummyimage.com/206x100.png/5fa2dd/ffffff
+nM-6Z,Yen,wl5-8247,1,Conference Hall,n5w-13c5,Asteraceae,6,Water Filter,http://dummyimage.com/199x100.png/ff4444/ffffff
+59-4Z,Zloty,iOQ-15Ql,9,Conference Hall,f78-66yP,Arthoniaceae,4,Air Conditioner,http://dummyimage.com/212x100.png/ff4444/ffffff
+CN-6W,Rupiah,Du4-97zF,1,Cubicle,438-38yC,Viscaceae,4,Water Filter,http://dummyimage.com/142x100.png/dddddd/000000
+uY-6J,Yuan Renminbi,oGk-06US,1,Conference Hall,H8S-39KM,Aristolochiaceae,6,Duster,http://dummyimage.com/231x100.png/5fa2dd/ffffff
+b6-3x,Krona,5eU-11ls,1,Cubicle,u4g-72NR,Pteridaceae,2,Duster,http://dummyimage.com/218x100.png/cc0000/ffffff
+7W-2u,Quetzal,If3-55PY,2,Cubicle,F98-905B,Fabaceae,0,Water Filter,http://dummyimage.com/220x100.png/cc0000/ffffff
+0g-0c,Dinar,A80-79nG,10,Conference Hall,L0J-58HD,Asteraceae,9,Water Filter,http://dummyimage.com/206x100.png/5fa2dd/ffffff
+Ky-4w,Zloty,HAj-95N0,1,Cubicle,83K-14ne,Malvaceae,3,Duster,http://dummyimage.com/193x100.png/ff4444/ffffff
+Wr-47,Peso,IxO-75T9,7,Conference Hall,f3W-75Fi,Fabaceae,1,Water Filter,http://dummyimage.com/152x100.png/dddddd/000000
+mK-1W,Yuan Renminbi,pqQ-2228,5,Conference Hall,967-30cK,Asteraceae,6,Projector,http://dummyimage.com/246x100.png/5fa2dd/ffffff
+ku-2T,Rupiah,1Jn-36hd,4,Conference Hall,b3V-53dU,Zingiberaceae,5,Monitor,http://dummyimage.com/116x100.png/dddddd/000000
+uc-3J,Real,NYx-78pH,2,Conference Hall,n1N-18EO,Poaceae,6,Duster,http://dummyimage.com/235x100.png/5fa2dd/ffffff
+IS-0Y,Dollar,PNK-37KQ,3,Conference Hall,m3s-53re,Polygonaceae,0,Monitor,http://dummyimage.com/188x100.png/cc0000/ffffff
+Ky-4E,Peso,cFN-95XS,5,Conference Hall,44C-10I5,Notothyladaceae,2,Duster,http://dummyimage.com/160x100.png/5fa2dd/ffffff
+xl-5y,Euro,fIO-62Ie,7,Conference Hall,d2e-493a,Cactaceae,6,Marker,http://dummyimage.com/225x100.png/5fa2dd/ffffff
+RF-7y,Peso,V0n-4150,8,Conference Hall,K4j-16Kv,Hypnaceae,1,Projector,http://dummyimage.com/117x100.png/ff4444/ffffff
+kX-5O,Rupee,91J-81Rk,8,Conference Hall,G34-90cw,Rosaceae,5,Monitor,http://dummyimage.com/102x100.png/dddddd/000000
+ir-24,Dollar,RUz-85PM,10,Conference Hall,y5Q-32VW,Bignoniaceae,3,Monitor,http://dummyimage.com/250x100.png/5fa2dd/ffffff
+0A-98,Euro,WT3-19Ay,2,Cubicle,F3U-70PI,Araceae,4,Marker,http://dummyimage.com/189x100.png/dddddd/000000
+eM-5f,Yuan Renminbi,xHx-00oX,7,Conference Hall,A3R-44xG,Liliaceae,3,Duster,http://dummyimage.com/170x100.png/ff4444/ffffff
+1J-3L,Euro,3N1-77mP,3,Conference Hall,18Y-37LT,Nyctaginaceae,5,Air Conditioner,http://dummyimage.com/169x100.png/5fa2dd/ffffff
+8q-8I,Yen,LAY-74Ga,1,Cubicle,B7o-99Zv,Fabaceae,4,Monitor,http://dummyimage.com/190x100.png/5fa2dd/ffffff
+dq-8c,Euro,Qwm-46Le,8,Conference Hall,y41-79zp,Liliaceae,7,Water Filter,http://dummyimage.com/181x100.png/ff4444/ffffff
+Nm-2B,Rupiah,MqQ-22zC,1,Conference Hall,e9t-48fg,Poaceae,2,Water Filter,http://dummyimage.com/201x100.png/ff4444/ffffff
+Ot-18,Yuan Renminbi,xVk-94qP,8,Conference Hall,v2S-87OA,Caryophyllaceae,8,Duster,http://dummyimage.com/107x100.png/5fa2dd/ffffff
+iE-8z,Dollar,KXi-32Gw,10,Conference Hall,O46-35ss,Zingiberaceae,6,Projector,http://dummyimage.com/238x100.png/5fa2dd/ffffff
+lb-3Z,Dollar,hqT-53QL,5,Conference Hall,q9l-085v,Fabaceae,3,Water Filter,http://dummyimage.com/136x100.png/dddddd/000000
+uP-0C,Real,HSl-96Vm,8,Conference Hall,y6Y-86v4,Asteraceae,4,Duster,http://dummyimage.com/102x100.png/dddddd/000000
+Ih-6M,Rupiah,y3n-659P,2,Cubicle,Z3p-25zt,Asteraceae,6,Air Conditioner,http://dummyimage.com/113x100.png/dddddd/000000
+cH-5z,Krona,cff-35UD,8,Conference Hall,b4P-16nd,Fabaceae,8,Air Conditioner,http://dummyimage.com/219x100.png/dddddd/000000
+YT-6s,Yuan Renminbi,J1i-59JA,6,Conference Hall,l6V-78kg,Bryaceae,8,Monitor,http://dummyimage.com/158x100.png/ff4444/ffffff
+GH-6x,Yuan Renminbi,btR-54f1,2,Cubicle,z5K-71lJ,Pyrenulaceae,2,Marker,http://dummyimage.com/243x100.png/cc0000/ffffff
+VA-6N,Yuan Renminbi,XyC-24ai,9,Conference Hall,06y-14YV,Hydrophyllaceae,2,Water Filter,http://dummyimage.com/160x100.png/ff4444/ffffff
+vG-9s,Rial,i9R-75HW,8,Conference Hall,x15-63Hn,Boraginaceae,4,Air Conditioner,http://dummyimage.com/124x100.png/ff4444/ffffff
+Kh-4O,Yuan Renminbi,7xw-72Tg,6,Conference Hall,38i-036r,Caprifoliaceae,2,Duster,http://dummyimage.com/177x100.png/5fa2dd/ffffff
+gp-32,Peso,dhs-66L8,4,Conference Hall,I6T-87AR,Verrucariaceae,2,Projector,http://dummyimage.com/117x100.png/5fa2dd/ffffff
+Hn-8c,Euro,TJR-60Eo,9,Conference Hall,W4k-28uo,Isoetaceae,4,Air Conditioner,http://dummyimage.com/195x100.png/dddddd/000000
+xu-7L,Krona,G1O-213D,7,Conference Hall,b17-17LY,Rosaceae,0,Marker,http://dummyimage.com/189x100.png/5fa2dd/ffffff
+2z-4Y,Rupiah,f6N-580w,10,Conference Hall,s7g-18Yl,Rosaceae,9,Duster,http://dummyimage.com/129x100.png/dddddd/000000
+CL-5Z,Yuan Renminbi,uQX-74zt,3,Conference Hall,l2K-43HE,Pertusariaceae,7,Duster,http://dummyimage.com/116x100.png/5fa2dd/ffffff
+qs-7I,Rupiah,QnE-59og,1,Cubicle,c1r-93j7,Cannaceae,7,Water Filter,http://dummyimage.com/145x100.png/dddddd/000000
+aX-6x,Dollar,zCh-9434,9,Conference Hall,56P-55Fw,Primulaceae,3,Projector,http://dummyimage.com/242x100.png/dddddd/000000
+IH-0e,Yuan Renminbi,b6R-67xw,9,Conference Hall,l99-07V2,Solanaceae,1,Water Filter,http://dummyimage.com/162x100.png/ff4444/ffffff
+dR-6W,Yuan Renminbi,kr5-86Wc,1,Cubicle,o0H-241u,Apiaceae,0,Duster,http://dummyimage.com/105x100.png/cc0000/ffffff
+oZ-7S,Sol,dq7-3818,10,Conference Hall,q6C-73N4,Ramalinaceae,4,Projector,http://dummyimage.com/208x100.png/5fa2dd/ffffff
+g6-62,Ruble,lcp-12Yv,6,Conference Hall,q7K-26dh,Boraginaceae,6,Marker,http://dummyimage.com/151x100.png/5fa2dd/ffffff
+0e-3t,Yuan Renminbi,2jh-27G4,2,Conference Hall,v6X-97KY,Polygonaceae,7,Duster,http://dummyimage.com/200x100.png/dddddd/000000
+1e-7H,Sol,PtN-53lw,9,Conference Hall,92G-359K,Isoetaceae,2,Projector,http://dummyimage.com/166x100.png/ff4444/ffffff
+IC-4p,Yuan Renminbi,8OY-55I9,8,Conference Hall,w5F-78Nb,Cyperaceae,6,Air Conditioner,http://dummyimage.com/152x100.png/cc0000/ffffff
+xZ-7A,Yuan Renminbi,A15-57AV,10,Conference Hall,29G-14Y5,Iridaceae,1,Marker,http://dummyimage.com/181x100.png/5fa2dd/ffffff
+ZG-3q,Ruble,DKd-99Gi,9,Conference Hall,p55-51ke,Rosaceae,9,Monitor,http://dummyimage.com/231x100.png/cc0000/ffffff
+7D-8X,Yuan Renminbi,d1K-36Kn,5,Conference Hall,68c-59uO,Pyrenulaceae,0,Water Filter,http://dummyimage.com/138x100.png/cc0000/ffffff
+3X-0a,Peso,YVs-01Fj,1,Cubicle,s5M-69S9,Asteraceae,7,Marker,http://dummyimage.com/246x100.png/cc0000/ffffff
+zk-60,Krona,AKG-64Dg,10,Conference Hall,K18-82jM,Asteraceae,8,Projector,http://dummyimage.com/121x100.png/5fa2dd/ffffff
+uR-2i,Koruna,2px-09iR,3,Conference Hall,A05-47FW,Asteraceae,9,Air Conditioner,http://dummyimage.com/186x100.png/ff4444/ffffff
+uI-1g,Dollar,hlt-69Eg,7,Conference Hall,V4h-11u6,Cyperaceae,1,Monitor,http://dummyimage.com/118x100.png/cc0000/ffffff
+TV-55,Zloty,0Bp-89o1,7,Conference Hall,B2v-36gy,Asteraceae,8,Marker,http://dummyimage.com/200x100.png/cc0000/ffffff
+k9-9w,Peso,aSB-39LY,4,Conference Hall,o1o-30Hp,Asteraceae,7,Water Filter,http://dummyimage.com/150x100.png/cc0000/ffffff
+bh-5r,Denar,Vs5-61Zh,7,Conference Hall,252-932D,Asteraceae,3,Air Conditioner,http://dummyimage.com/194x100.png/ff4444/ffffff
+3R-5u,Bolivar,3gb-98pL,1,Cubicle,g0l-21fY,Fabaceae,1,Marker,http://dummyimage.com/174x100.png/dddddd/000000
+OB-9S,Dollar,9ZX-800y,4,Conference Hall,975-160I,Poaceae,5,Projector,http://dummyimage.com/121x100.png/dddddd/000000
+7b-5D,Ruble,o1i-43X1,4,Conference Hall,M8m-17og,Gentianaceae,9,Air Conditioner,http://dummyimage.com/154x100.png/dddddd/000000
+DT-5G,Zloty,6Xi-51in,3,Conference Hall,P5E-33x3,Asteraceae,8,Projector,http://dummyimage.com/148x100.png/5fa2dd/ffffff
+GW-39,Rupiah,y02-42kU,9,Conference Hall,F2Y-67FK,Cyperaceae,3,Monitor,http://dummyimage.com/233x100.png/cc0000/ffffff
+iM-1N,Peso,miQ-15wb,6,Conference Hall,v5O-50uQ,Apiaceae,4,Water Filter,http://dummyimage.com/224x100.png/ff4444/ffffff
+UT-4m,Shilling,v6F-184W,9,Conference Hall,v6u-88UY,Boraginaceae,6,Projector,http://dummyimage.com/134x100.png/cc0000/ffffff
+51-8H,Yuan Renminbi,Z9J-41ng,4,Conference Hall,W2o-54vf,Boraginaceae,0,Marker,http://dummyimage.com/108x100.png/5fa2dd/ffffff
+j1-7E,Rupiah,Wm4-44fn,1,Conference Hall,j6T-17lS,Acarosporaceae,4,Duster,http://dummyimage.com/219x100.png/cc0000/ffffff
+mz-6O,Zloty,Vjf-118K,1,Conference Hall,I9k-34yp,Scrophulariaceae,1,Monitor,http://dummyimage.com/167x100.png/5fa2dd/ffffff
+ma-9t,Yuan Renminbi,N3G-768k,4,Conference Hall,w1n-44tA,Campanulaceae,5,Marker,http://dummyimage.com/107x100.png/5fa2dd/ffffff
+mL-8s,Krona,PWh-68lK,6,Conference Hall,c46-36Fn,Asteraceae,3,Duster,http://dummyimage.com/206x100.png/5fa2dd/ffffff
+0s-7K,Real,KWq-11bK,6,Conference Hall,c1L-3288,Asteraceae,8,Water Filter,http://dummyimage.com/170x100.png/cc0000/ffffff
+8h-2O,Yuan Renminbi,f1p-07C7,1,Conference Hall,p5Y-87Du,Scrophulariaceae,4,Marker,http://dummyimage.com/139x100.png/cc0000/ffffff
+5D-91,Naira,EXo-35bC,4,Conference Hall,e21-98Ew,Asteraceae,5,Duster,http://dummyimage.com/229x100.png/ff4444/ffffff
+kK-0w,Dollar,P8d-79SX,7,Conference Hall,d4y-0362,Brassicaceae,5,Monitor,http://dummyimage.com/134x100.png/cc0000/ffffff
+Wp-7i,Euro,BOZ-15PS,6,Conference Hall,r5C-75yl,Scrophulariaceae,8,Duster,http://dummyimage.com/188x100.png/dddddd/000000
+TG-6x,Zloty,pTy-54ak,8,Conference Hall,B4Z-16Up,Orchidaceae,2,Marker,http://dummyimage.com/131x100.png/ff4444/ffffff
+5L-6R,Peso,gSB-862C,4,Conference Hall,k34-64c6,Cyperaceae,8,Water Filter,http://dummyimage.com/199x100.png/cc0000/ffffff
+oJ-2r,Yuan Renminbi,Sal-92sC,3,Conference Hall,S23-66Qy,Fabaceae,2,Marker,http://dummyimage.com/111x100.png/dddddd/000000
+Cc-9P,Zloty,HZ6-73d5,5,Conference Hall,31D-17lS,Physciaceae,5,Water Filter,http://dummyimage.com/162x100.png/5fa2dd/ffffff
+KW-72,Ruble,Wm4-44fn,5,Conference Hall,18w-08eF,Polemoniaceae,3,Marker,http://dummyimage.com/184x100.png/ff4444/ffffff
+Da-7J,Euro,3uv-52VH,8,Conference Hall,706-89CY,Asteraceae,7,Monitor,http://dummyimage.com/106x100.png/ff4444/ffffff
+h3-6s,Shilling,clt-99Iq,8,Conference Hall,p4C-57Mi,Fabaceae,3,Projector,http://dummyimage.com/110x100.png/cc0000/ffffff
+98-9f,Rupee,IgB-431J,3,Conference Hall,30Y-96vb,Orchidaceae,7,Duster,http://dummyimage.com/130x100.png/5fa2dd/ffffff
+qe-81,Baht,x4J-15QY,9,Conference Hall,x14-03Qy,Hydrophyllaceae,6,Monitor,http://dummyimage.com/165x100.png/dddddd/000000
+4W-4C,Ngultrum,thi-00JZ,3,Conference Hall,H5u-34rk,Asteraceae,0,Monitor,http://dummyimage.com/177x100.png/5fa2dd/ffffff
+3M-1K,Yuan Renminbi,J1x-03YX,8,Conference Hall,X3T-33Ql,Cyperaceae,6,Marker,http://dummyimage.com/130x100.png/5fa2dd/ffffff
+JL-9c,Peso,Eeq-579g,2,Cubicle,M8m-17og,Gentianaceae,3,Monitor,http://dummyimage.com/124x100.png/dddddd/000000
+nq-3P,Euro,Wjv-97dL,7,Conference Hall,f3W-75Fi,Fabaceae,4,Water Filter,http://dummyimage.com/152x100.png/ff4444/ffffff
+SU-82,Yuan Renminbi,o1i-43X1,6,Conference Hall,G7a-09sm,Rhamnaceae,4,Projector,http://dummyimage.com/215x100.png/ff4444/ffffff
+tQ-37,Yen,kR2-38oo,10,Conference Hall,x0l-77Lq,Asteraceae,9,Water Filter,http://dummyimage.com/154x100.png/5fa2dd/ffffff
+5O-3r,Ruble,m2l-48b4,2,Cubicle,b5J-87S8,Scrophulariaceae,6,Air Conditioner,http://dummyimage.com/161x100.png/dddddd/000000
+dG-6D,Peso,ml4-62dj,6,Conference Hall,p3J-50LO,Asteraceae,3,Marker,http://dummyimage.com/116x100.png/ff4444/ffffff
+Bc-8Z,Krona,xSo-05PH,8,Conference Hall,q7j-604j,Solanaceae,7,Water Filter,http://dummyimage.com/162x100.png/cc0000/ffffff
+yZ-2L,Ruble,Ml1-51M4,1,Conference Hall,T1U-59vR,Dicksoniaceae,2,Projector,http://dummyimage.com/181x100.png/5fa2dd/ffffff
+ho-5B,Cordoba,cMz-03oW,9,Conference Hall,A7y-81WR,Buddlejaceae,1,Water Filter,http://dummyimage.com/118x100.png/cc0000/ffffff
+dP-9t,Peso,pFo-06IP,3,Conference Hall,F1o-36sk,Polygonaceae,1,Marker,http://dummyimage.com/187x100.png/dddddd/000000
+1v-0I,Euro,5F1-29W7,8,Conference Hall,o3L-512e,Myrsinaceae,6,Monitor,http://dummyimage.com/107x100.png/ff4444/ffffff
+ls-5T,Dollar,BOZ-15PS,7,Conference Hall,W0y-373Y,Liliaceae,7,Duster,http://dummyimage.com/194x100.png/5fa2dd/ffffff
+o5-6g,Peso,vlq-541f,8,Conference Hall,l4X-99U8,Linaceae,0,Water Filter,http://dummyimage.com/152x100.png/cc0000/ffffff
+Wp-7I,Yuan Renminbi,GQD-98BF,2,Conference Hall,E1v-39Kw,Primulaceae,7,Air Conditioner,http://dummyimage.com/170x100.png/ff4444/ffffff
+6Q-8X,Yuan Renminbi,9Qn-45YW,5,Conference Hall,V42-85PE,Caryophyllaceae,3,Duster,http://dummyimage.com/147x100.png/cc0000/ffffff
+H0-6u,Yuan Renminbi,sre-78j7,6,Conference Hall,p55-51ke,Rosaceae,3,Duster,http://dummyimage.com/208x100.png/5fa2dd/ffffff
+NI-0z,Colon,8Dq-08ek,4,Conference Hall,v2j-25bC,Asteraceae,8,Duster,http://dummyimage.com/130x100.png/5fa2dd/ffffff
+yn-9H,Franc,rqU-39jy,1,Cubicle,i9V-60rN,Mycocaliciaceae,9,Air Conditioner,http://dummyimage.com/203x100.png/dddddd/000000
+CY-6H,Euro,prr-62Fg,3,Conference Hall,W69-30LH,Cactaceae,3,Duster,http://dummyimage.com/214x100.png/ff4444/ffffff
+SH-4r,Yuan Renminbi,gI9-42Jj,5,Conference Hall,q35-37h9,Polygonaceae,9,Air Conditioner,http://dummyimage.com/158x100.png/5fa2dd/ffffff
+Ms-0C,Real,BMg-94Mr,7,Conference Hall,s6H-22dY,Hypnaceae,5,Duster,http://dummyimage.com/179x100.png/dddddd/000000
+VJ-8J,Dollar,QT8-70YI,10,Conference Hall,G5H-53pJ,Loganiaceae,9,Marker,http://dummyimage.com/167x100.png/dddddd/000000
+jt-68,Yuan Renminbi,Fhi-48EW,7,Conference Hall,H3v-91iq,Poaceae,7,Projector,http://dummyimage.com/190x100.png/cc0000/ffffff
+3Z-7v,Zloty,rFV-25NS,5,Conference Hall,15e-72LF,Brassicaceae,6,Air Conditioner,http://dummyimage.com/142x100.png/cc0000/ffffff
+EY-3e,Peso,gIL-88Px,3,Conference Hall,M9f-34ue,Apocynaceae,2,Duster,http://dummyimage.com/244x100.png/dddddd/000000
+MM-0U,Rupiah,6Fd-60rj,3,Conference Hall,I9k-34yp,Scrophulariaceae,4,Monitor,http://dummyimage.com/182x100.png/dddddd/000000
+wg-0Y,Yuan Renminbi,YfU-748N,2,Cubicle,z6T-97Ut,Rosaceae,7,Monitor,http://dummyimage.com/106x100.png/5fa2dd/ffffff
+KI-9T,Manat,QCm-54jE,5,Conference Hall,21b-10cH,Poaceae,3,Duster,http://dummyimage.com/114x100.png/5fa2dd/ffffff
+Pw-4S,Yuan Renminbi,OiH-80lA,2,Conference Hall,q1d-8855,Poaceae,5,Duster,http://dummyimage.com/213x100.png/dddddd/000000
+Ay-0l,Rupiah,NlT-14Lw,5,Conference Hall,l8X-05ig,Boraginaceae,2,Duster,http://dummyimage.com/216x100.png/5fa2dd/ffffff
+aq-39,Real,PN0-858J,3,Conference Hall,E3n-70ET,Lamiaceae,4,Water Filter,http://dummyimage.com/113x100.png/dddddd/000000
+Nn-7J,Yuan Renminbi,H4D-30jm,6,Conference Hall,q6C-73N4,Ramalinaceae,2,Projector,http://dummyimage.com/123x100.png/5fa2dd/ffffff
+F9-34,Real,xHx-00oX,10,Conference Hall,C8x-07vW,Moraceae,3,Marker,http://dummyimage.com/156x100.png/ff4444/ffffff
+db-2T,Dollar,wl4-70bn,10,Conference Hall,d03-19tS,Caryophyllaceae,6,Water Filter,http://dummyimage.com/111x100.png/dddddd/000000
+JJ-32,Euro,6Js-14KT,6,Conference Hall,I6T-87AR,Verrucariaceae,0,Projector,http://dummyimage.com/189x100.png/cc0000/ffffff
+Dx-91,Manat,BzI-28C6,10,Conference Hall,F6s-10Hb,Bombacaceae,7,Water Filter,http://dummyimage.com/148x100.png/dddddd/000000
+jn-7B,Dollar,FJf-35pZ,10,Conference Hall,H80-28Rn,Fabaceae,6,Marker,http://dummyimage.com/131x100.png/5fa2dd/ffffff
+0y-3W,Dong,8Su-31oR,6,Conference Hall,u45-84ZW,Asclepiadaceae,7,Monitor,http://dummyimage.com/201x100.png/ff4444/ffffff
+Ad-7u,Koruna,kux-24og,8,Conference Hall,z5h-60Gs,Rosaceae,0,Air Conditioner,http://dummyimage.com/211x100.png/dddddd/000000
+RB-4R,Rupiah,fod-12cT,2,Conference Hall,w4J-60Yl,Empetraceae,0,Projector,http://dummyimage.com/241x100.png/dddddd/000000
+Ah-70,Euro,MaR-00nm,8,Conference Hall,i2d-09UB,Euphorbiaceae,0,Duster,http://dummyimage.com/161x100.png/dddddd/000000
+dz-6Z,Rupiah,4Q7-25oI,8,Conference Hall,C7a-95y3,Leskeaceae,6,Duster,http://dummyimage.com/109x100.png/5fa2dd/ffffff
+nU-3T,Yuan Renminbi,Qew-54k3,6,Conference Hall,s7g-18Yl,Rosaceae,9,Marker,http://dummyimage.com/178x100.png/cc0000/ffffff
+5a-0K,Peso,993-17je,4,Conference Hall,U4h-93kA,Cladoniaceae,8,Duster,http://dummyimage.com/173x100.png/5fa2dd/ffffff
+de-9x,Peso,oHG-66X2,3,Conference Hall,f06-08Ir,Linaceae,2,Water Filter,http://dummyimage.com/143x100.png/5fa2dd/ffffff
+FI-8h,Rupiah,4tG-51qX,3,Conference Hall,m29-95P7,Asteraceae,2,Air Conditioner,http://dummyimage.com/160x100.png/ff4444/ffffff
+OE-6e,Yuan Renminbi,bfp-58yk,1,Cubicle,k2H-58PK,Orchidaceae,1,Water Filter,http://dummyimage.com/200x100.png/cc0000/ffffff
+Zs-0x,Rupiah,gFg-73ZF,1,Conference Hall,M8n-93pl,Asteraceae,6,Monitor,http://dummyimage.com/218x100.png/5fa2dd/ffffff
+6a-7r,Yuan Renminbi,NYx-78pH,3,Conference Hall,I3p-87sk,Malvaceae,2,Projector,http://dummyimage.com/134x100.png/cc0000/ffffff
+yu-73,Ruble,d1K-36Kn,1,Cubicle,D6K-877H,Poaceae,4,Monitor,http://dummyimage.com/159x100.png/5fa2dd/ffffff
+7U-87,Ruble,ruP-87Ff,5,Conference Hall,r5Y-06DK,Polemoniaceae,8,Air Conditioner,http://dummyimage.com/223x100.png/5fa2dd/ffffff
+CX-1t,Euro,otx-92Xx,6,Conference Hall,104-93xr,Rosaceae,3,Marker,http://dummyimage.com/233x100.png/5fa2dd/ffffff
+YU-4z,Lev,pZX-99K6,9,Conference Hall,73T-93gN,Lamiaceae,4,Water Filter,http://dummyimage.com/164x100.png/cc0000/ffffff
+fl-4R,Dollar,Wu5-03k2,6,Conference Hall,i8H-38IB,Fabaceae,7,Monitor,http://dummyimage.com/100x100.png/cc0000/ffffff
+Vz-50,Euro,LcZ-61Sm,3,Conference Hall,92G-359K,Isoetaceae,1,Projector,http://dummyimage.com/226x100.png/dddddd/000000
+h8-4l,Euro,ILv-18Z2,4,Conference Hall,l6V-78kg,Bryaceae,4,Water Filter,http://dummyimage.com/246x100.png/ff4444/ffffff
+zo-7R,Dollar,E5V-47m5,8,Conference Hall,s9x-58b8,Urticaceae,2,Duster,http://dummyimage.com/108x100.png/5fa2dd/ffffff
+TJ-4o,Peso,b6R-67xw,10,Conference Hall,S0k-57TO,Asclepiadaceae,1,Duster,http://dummyimage.com/248x100.png/ff4444/ffffff
+eJ-3m,Yuan Renminbi,B1m-6337,5,Conference Hall,P3W-32mB,Cactaceae,4,Duster,http://dummyimage.com/178x100.png/5fa2dd/ffffff
+nd-4c,Dinar,VDQ-51e7,7,Conference Hall,19V-17rl,Fabaceae,3,Monitor,http://dummyimage.com/158x100.png/cc0000/ffffff
+nh-8I,Peso,y3n-659P,9,Conference Hall,U6Y-16GX,Asteraceae,0,Monitor,http://dummyimage.com/103x100.png/dddddd/000000
+q7-0Q,Peso,Mc1-91HX,9,Conference Hall,C61-749c,Phlyctidaceae,3,Water Filter,http://dummyimage.com/140x100.png/5fa2dd/ffffff
+eY-2g,Dinar,oiU-52FW,2,Cubicle,q7K-26dh,Boraginaceae,7,Monitor,http://dummyimage.com/108x100.png/cc0000/ffffff
+1g-3g,Shilling,fci-23kk,9,Conference Hall,h8e-42eM,Malvaceae,7,Monitor,http://dummyimage.com/193x100.png/5fa2dd/ffffff
+tf-9h,Sol,YOJ-81W3,3,Conference Hall,o79-02Yz,Diapensiaceae,1,Marker,http://dummyimage.com/250x100.png/ff4444/ffffff
+rm-32,Yuan Renminbi,Fby-93zx,7,Conference Hall,Z3M-4004,Physciaceae,5,Monitor,http://dummyimage.com/120x100.png/5fa2dd/ffffff
+TV-6l,Yuan Renminbi,uk2-55Fe,9,Conference Hall,n1V-76Ie,Rosaceae,8,Projector,http://dummyimage.com/121x100.png/dddddd/000000
+vi-2k,Euro,NsN-919n,6,Conference Hall,H60-25mJ,Onagraceae,3,Monitor,http://dummyimage.com/236x100.png/cc0000/ffffff
+cX-5c,Rupiah,fmG-21q0,2,Cubicle,k70-64UK,Asteraceae,4,Duster,http://dummyimage.com/212x100.png/cc0000/ffffff
+bh-0D,Peso,UEU-311r,2,Conference Hall,W9V-92H5,Solanaceae,5,Water Filter,http://dummyimage.com/213x100.png/ff4444/ffffff
+D2-21,Zloty,YNX-25uZ,8,Conference Hall,K6Q-6295,Aspleniaceae,9,Projector,http://dummyimage.com/233x100.png/dddddd/000000
+0p-6r,Yuan Renminbi,bZx-299L,2,Cubicle,h8k-20jt,Lamiaceae,8,Projector,http://dummyimage.com/129x100.png/5fa2dd/ffffff
+of-9w,Rupiah,6uu-96oU,8,Conference Hall,N5U-2294,Asteraceae,5,Monitor,http://dummyimage.com/184x100.png/ff4444/ffffff
+vk-1e,Euro,QSF-064R,4,Conference Hall,l0k-565E,Collemataceae,7,Air Conditioner,http://dummyimage.com/183x100.png/5fa2dd/ffffff
+Gd-25,Yuan Renminbi,LkZ-00sf,6,Conference Hall,p2U-50AQ,Apiaceae,3,Marker,http://dummyimage.com/181x100.png/cc0000/ffffff
+aD-3C,Rupiah,ioS-24H3,2,Conference Hall,M0e-08ML,Garryaceae,9,Marker,http://dummyimage.com/230x100.png/cc0000/ffffff
+0d-65,Dinar,aHn-90u3,1,Cubicle,Z64-06w0,Caprifoliaceae,7,Water Filter,http://dummyimage.com/190x100.png/dddddd/000000
+lu-38,Real,CTn-701o,2,Cubicle,F2D-245j,Liliaceae,7,Projector,http://dummyimage.com/144x100.png/cc0000/ffffff
+sw-2f,Peso,1Nn-77X7,6,Conference Hall,n1N-18EO,Poaceae,2,Air Conditioner,http://dummyimage.com/177x100.png/ff4444/ffffff
+St-9O,Yuan Renminbi,le6-22qC,1,Conference Hall,21w-01kr,Fabaceae,3,Duster,http://dummyimage.com/225x100.png/dddddd/000000
+ZW-4I,Yuan Renminbi,ZX1-30Vz,10,Conference Hall,p8w-20fj,Rhizocarpaceae,2,Water Filter,http://dummyimage.com/209x100.png/cc0000/ffffff
+pD-9d,Ruble,nHr-07eU,4,Conference Hall,H4H-54O3,Pinaceae,9,Projector,http://dummyimage.com/213x100.png/ff4444/ffffff
+JV-9O,Euro,hqT-53QL,10,Conference Hall,q7T-39sr,Ophioglossaceae,3,Monitor,http://dummyimage.com/204x100.png/cc0000/ffffff
+OS-4c,Bolivar,BSy-07L6,5,Conference Hall,d8b-077A,Lichinaceae,7,Marker,http://dummyimage.com/223x100.png/dddddd/000000
+2E-6O,Yuan Renminbi,3q1-93um,1,Conference Hall,M3f-20Su,Euphorbiaceae,7,Monitor,http://dummyimage.com/192x100.png/5fa2dd/ffffff
+dS-9A,Marka,fyf-23E2,5,Conference Hall,O7N-70M1,Callicostaceae,4,Projector,http://dummyimage.com/224x100.png/5fa2dd/ffffff
+gq-6n,Euro,Lqw-07zK,6,Conference Hall,Q2n-67Qf,Euphorbiaceae,0,Duster,http://dummyimage.com/118x100.png/dddddd/000000
+gL-5T,Yuan Renminbi,aSB-39LY,7,Conference Hall,o3x-67Xs,Boraginaceae,8,Marker,http://dummyimage.com/160x100.png/dddddd/000000
+YV-5E,Yuan Renminbi,G5v-69OI,2,Conference Hall,96k-03Uq,Poaceae,5,Marker,http://dummyimage.com/211x100.png/dddddd/000000
+Zh-5P,Yuan Renminbi,M6J-989h,6,Conference Hall,A43-70k0,Asteraceae,3,Marker,http://dummyimage.com/112x100.png/ff4444/ffffff
+mL-2s,Krona,IOs-801e,8,Conference Hall,z36-39OU,Iridaceae,5,Monitor,http://dummyimage.com/180x100.png/cc0000/ffffff
+v6-0B,Rand,tMU-54p0,5,Conference Hall,w3A-85XF,Polemoniaceae,2,Duster,http://dummyimage.com/232x100.png/cc0000/ffffff
+8r-3h,Colon,MqQ-22zC,6,Conference Hall,c6m-22gU,Cyperaceae,9,Air Conditioner,http://dummyimage.com/166x100.png/ff4444/ffffff
+0K-90,Ruble,dAN-21II,1,Conference Hall,T0N-33Xc,Scrophulariaceae,3,Water Filter,http://dummyimage.com/240x100.png/dddddd/000000
+G6-3a,Rand,lm4-08yc,10,Conference Hall,i6s-29D1,Asteraceae,3,Duster,http://dummyimage.com/171x100.png/cc0000/ffffff
+FX-6O,Dollar,J1i-59JA,3,Conference Hall,32l-74iK,Asteraceae,4,Projector,http://dummyimage.com/151x100.png/dddddd/000000
+za-8E,Yuan Renminbi,pBf-987O,5,Conference Hall,M7Q-47Pd,Asteraceae,1,Water Filter,http://dummyimage.com/100x100.png/dddddd/000000
+8d-3v,Yuan Renminbi,5H3-30F4,10,Conference Hall,H2y-17TG,Aizoaceae,2,Duster,http://dummyimage.com/194x100.png/dddddd/000000
+oF-6b,Yuan Renminbi,N0D-46If,1,Cubicle,B4N-07ee,Campanulaceae,1,Monitor,http://dummyimage.com/156x100.png/dddddd/000000
+Xj-7D,Ruble,FYF-91Xa,8,Conference Hall,Y8b-11nq,Fabaceae,1,Water Filter,http://dummyimage.com/237x100.png/cc0000/ffffff
+bC-54,Pound,Sql-23A9,10,Conference Hall,y9L-993X,Cyperaceae,5,Monitor,http://dummyimage.com/201x100.png/ff4444/ffffff
+bu-67,Krona,bhK-95fB,8,Conference Hall,g4l-36MJ,Polemoniaceae,5,Monitor,http://dummyimage.com/165x100.png/dddddd/000000
+V7-1s,Rupiah,qoP-81Oo,1,Cubicle,A1f-45bn,Fabaceae,2,Air Conditioner,http://dummyimage.com/135x100.png/cc0000/ffffff
+y5-44,Ringgit,JaI-03EG,7,Conference Hall,22n-58Zt,Poaceae,8,Marker,http://dummyimage.com/205x100.png/cc0000/ffffff
+t3-6x,Euro,TVg-602D,1,Cubicle,K70-38hA,Salicaceae,5,Monitor,http://dummyimage.com/149x100.png/dddddd/000000
+2g-5Y,Rupiah,bf7-19bP,8,Conference Hall,70r-11vQ,Passifloraceae,5,Monitor,http://dummyimage.com/230x100.png/dddddd/000000
+2F-1y,Hryvnia,fCV-52xx,8,Conference Hall,o4K-68YF,Fabaceae,3,Marker,http://dummyimage.com/183x100.png/cc0000/ffffff
+Vb-2Z,Peso,SH9-52vs,6,Conference Hall,w1X-08WH,Violaceae,4,Projector,http://dummyimage.com/184x100.png/dddddd/000000
+mX-04,Peso,gOS-41Z6,1,Cubicle,J5J-50Ud,Apiaceae,3,Water Filter,http://dummyimage.com/183x100.png/cc0000/ffffff
+Fm-7V,Yuan Renminbi,wWO-63mU,8,Conference Hall,X1a-34AR,Malvaceae,8,Water Filter,http://dummyimage.com/188x100.png/ff4444/ffffff
+Xu-7n,Yuan Renminbi,2A4-69tP,5,Conference Hall,V7H-58HI,Pottiaceae,1,Duster,http://dummyimage.com/108x100.png/ff4444/ffffff
+Sp-4T,Peso,fbx-33Ic,3,Conference Hall,q7i-16AW,Polypodiaceae,4,Marker,http://dummyimage.com/144x100.png/ff4444/ffffff
+WY-3F,Euro,gpa-81cg,9,Conference Hall,y8k-090s,Cladoniaceae,1,Monitor,http://dummyimage.com/216x100.png/cc0000/ffffff
+UL-9w,Euro,BdW-44MK,5,Conference Hall,Y5R-59iG,Rhamnaceae,9,Projector,http://dummyimage.com/226x100.png/dddddd/000000
+oW-86,Euro,PXd-79HK,7,Conference Hall,W4N-59WP,Rosaceae,6,Water Filter,http://dummyimage.com/200x100.png/dddddd/000000
+6e-8v,Rupiah,maw-94h3,8,Conference Hall,r2v-39s7,Euphorbiaceae,3,Air Conditioner,http://dummyimage.com/123x100.png/cc0000/ffffff
+PB-1z,Yuan Renminbi,GP8-99L7,7,Conference Hall,s7g-18Yl,Rosaceae,0,Monitor,http://dummyimage.com/139x100.png/ff4444/ffffff
+9P-06,Peso,IXi-39KH,2,Conference Hall,12a-04Qg,Asteraceae,9,Air Conditioner,http://dummyimage.com/211x100.png/dddddd/000000
+4l-80,Yuan Renminbi,OiH-80lA,3,Conference Hall,e7o-71ZR,Poaceae,0,Water Filter,http://dummyimage.com/132x100.png/dddddd/000000
+1J-17,Ruble,egR-94iU,9,Conference Hall,o3S-54BL,Hydrophyllaceae,8,Air Conditioner,http://dummyimage.com/131x100.png/ff4444/ffffff
+ix-1X,Dollar,WSk-08zE,9,Conference Hall,A7A-23AD,Rosaceae,3,Projector,http://dummyimage.com/159x100.png/ff4444/ffffff
+5k-8F,Rupiah,3RD-69xn,10,Conference Hall,Q96-13jV,Caryophyllaceae,8,Marker,http://dummyimage.com/230x100.png/ff4444/ffffff
+D1-70,Dollar,6Xi-51in,5,Conference Hall,O3P-927a,Verrucariaceae,2,Marker,http://dummyimage.com/191x100.png/cc0000/ffffff
+pK-26,Euro,2oT-27nO,9,Conference Hall,f6B-69Pr,Ephedraceae,0,Marker,http://dummyimage.com/143x100.png/5fa2dd/ffffff
+Gw-4M,Ruble,SnN-66od,5,Conference Hall,j8m-12pS,Adoxaceae,1,Monitor,http://dummyimage.com/222x100.png/cc0000/ffffff
+sb-5j,Yuan Renminbi,Flf-08Sm,1,Conference Hall,R7d-584e,Asteraceae,7,Monitor,http://dummyimage.com/198x100.png/cc0000/ffffff
+BF-67,Rupiah,m2l-48b4,9,Conference Hall,I9k-34yp,Scrophulariaceae,7,Marker,http://dummyimage.com/159x100.png/dddddd/000000
+Dk-8u,Lek,lzd-07Vw,6,Conference Hall,21w-01kr,Fabaceae,2,Water Filter,http://dummyimage.com/239x100.png/dddddd/000000
+Eq-7x,Krona,Cxq-85Pr,3,Conference Hall,D3B-46Is,Asteraceae,8,Marker,http://dummyimage.com/167x100.png/dddddd/000000
+Ku-3C,Euro,P8d-79SX,10,Conference Hall,u5y-19O3,Asteraceae,6,Projector,http://dummyimage.com/146x100.png/dddddd/000000
+dt-8G,Dollar,kux-24og,9,Conference Hall,x9x-52G0,Liliaceae,1,Marker,http://dummyimage.com/236x100.png/5fa2dd/ffffff
+6K-4w,Quetzal,R8m-34io,1,Conference Hall,c8x-70yR,Asteraceae,2,Marker,http://dummyimage.com/153x100.png/cc0000/ffffff
+Oh-4k,Euro,jDr-36d2,9,Conference Hall,s6E-58SJ,Fabaceae,0,Marker,http://dummyimage.com/106x100.png/ff4444/ffffff
+25-3w,Zloty,nqi-57P2,7,Conference Hall,p7h-02SX,Poaceae,7,Monitor,http://dummyimage.com/102x100.png/5fa2dd/ffffff
+oH-8N,Franc,X7P-91v9,9,Conference Hall,E4o-84Zh,Rhamnaceae,2,Projector,http://dummyimage.com/229x100.png/dddddd/000000
+Mv-21,Krona,vlq-541f,8,Conference Hall,11E-814i,Cupressaceae,0,Duster,http://dummyimage.com/236x100.png/ff4444/ffffff
+9d-2p,Litas,Qew-54k3,5,Conference Hall,31D-17lS,Physciaceae,9,Marker,http://dummyimage.com/165x100.png/5fa2dd/ffffff
+cm-3c,Koruna,2Y2-61iD,1,Cubicle,r7T-540a,Polemoniaceae,1,Projector,http://dummyimage.com/102x100.png/5fa2dd/ffffff
+dj-89,Yuan Renminbi,TMW-09fE,1,Cubicle,89S-95Xz,Asteraceae,4,Marker,http://dummyimage.com/124x100.png/cc0000/ffffff
+FU-1V,Baht,1Jn-36hd,10,Conference Hall,K8K-85Fs,Poaceae,5,Monitor,http://dummyimage.com/116x100.png/5fa2dd/ffffff
+yh-0U,Ruble,WvQ-64zz,1,Conference Hall,l60-69Qr,Polemoniaceae,9,Air Conditioner,http://dummyimage.com/130x100.png/ff4444/ffffff
+92-2m,Tenge,ILv-18Z2,4,Conference Hall,77o-979M,Cactaceae,1,Marker,http://dummyimage.com/189x100.png/ff4444/ffffff
+fD-26,Yuan Renminbi,BbR-54Ym,2,Cubicle,M42-43UQ,Rubiaceae,5,Projector,http://dummyimage.com/101x100.png/5fa2dd/ffffff
+4M-4b,Real,iXT-79vg,4,Conference Hall,b2j-97FJ,Cistaceae,3,Monitor,http://dummyimage.com/103x100.png/5fa2dd/ffffff
+l0-4B,Euro,pm8-82rm,2,Cubicle,F8P-45UE,Oleaceae,4,Water Filter,http://dummyimage.com/229x100.png/cc0000/ffffff
+aY-4e,Baht,ULM-72Pm,5,Conference Hall,78u-84jG,Chenopodiaceae,6,Water Filter,http://dummyimage.com/139x100.png/ff4444/ffffff
+7Y-84,Euro,jhX-82GX,3,Conference Hall,s1Z-72N6,Brassicaceae,0,Monitor,http://dummyimage.com/238x100.png/dddddd/000000
+nL-9i,Rupiah,gFg-73ZF,6,Conference Hall,66w-79TW,Urticaceae,8,Projector,http://dummyimage.com/173x100.png/cc0000/ffffff
+0A-2i,Kuna,GQD-98BF,3,Conference Hall,07V-90HT,Asteraceae,5,Air Conditioner,http://dummyimage.com/233x100.png/ff4444/ffffff
+QP-8m,Peso,mso-48Hn,4,Conference Hall,O19-51jH,Rubiaceae,6,Air Conditioner,http://dummyimage.com/191x100.png/5fa2dd/ffffff
+X8-7e,Yuan Renminbi,5TB-996k,6,Conference Hall,y5d-57LX,Lichinaceae,5,Duster,http://dummyimage.com/155x100.png/dddddd/000000
+EI-14,Euro,c2x-59Kd,3,Conference Hall,z3T-176z,Scrophulariaceae,8,Water Filter,http://dummyimage.com/175x100.png/ff4444/ffffff
+xQ-5m,Rupiah,Wx3-075f,8,Conference Hall,A3R-44xG,Liliaceae,5,Monitor,http://dummyimage.com/240x100.png/dddddd/000000
+tI-5P,Euro,pIL-69aV,8,Conference Hall,F55-88u1,Myrtaceae,2,Projector,http://dummyimage.com/225x100.png/cc0000/ffffff
+60-2O,Ruble,nUT-07H4,8,Conference Hall,s0v-04T1,Pottiaceae,7,Duster,http://dummyimage.com/119x100.png/cc0000/ffffff
+Uu-7p,Zloty,MF1-306n,7,Conference Hall,38D-88cB,Rhizocarpaceae,9,Water Filter,http://dummyimage.com/142x100.png/ff4444/ffffff
+8O-5z,Yuan Renminbi,ROt-19EB,10,Conference Hall,m2y-69MU,Asteraceae,6,Monitor,http://dummyimage.com/234x100.png/ff4444/ffffff
+5J-0j,Real,gI9-42Jj,1,Conference Hall,h91-45QZ,Brassicaceae,5,Marker,http://dummyimage.com/184x100.png/ff4444/ffffff
+0O-55,Yuan Renminbi,zIp-984I,5,Conference Hall,V87-21Fk,Grossulariaceae,1,Water Filter,http://dummyimage.com/233x100.png/ff4444/ffffff
+f3-33,Yuan Renminbi,9rd-43zi,4,Conference Hall,q75-8054,Fabaceae,3,Water Filter,http://dummyimage.com/185x100.png/5fa2dd/ffffff
+vE-3M,Krona,IMB-71io,7,Conference Hall,02X-05Xe,Asteraceae,7,Monitor,http://dummyimage.com/189x100.png/cc0000/ffffff
+RR-4w,Peso,nY0-50cQ,3,Conference Hall,y6Y-86v4,Asteraceae,5,Projector,http://dummyimage.com/154x100.png/5fa2dd/ffffff
+7I-5B,Real,NlT-14Lw,6,Conference Hall,p1J-22Aa,Brassicaceae,0,Projector,http://dummyimage.com/223x100.png/dddddd/000000
+oT-3a,Dollar,mjI-69dN,4,Conference Hall,J3R-46g9,Asteraceae,3,Marker,http://dummyimage.com/236x100.png/cc0000/ffffff
+yf-3C,Yuan Renminbi,DDT-22Ng,8,Conference Hall,12t-82IK,Asteraceae,7,Air Conditioner,http://dummyimage.com/188x100.png/dddddd/000000
+pp-6J,Yuan Renminbi,fjz-37wB,4,Conference Hall,j6F-93Gb,Orchidaceae,2,Marker,http://dummyimage.com/154x100.png/ff4444/ffffff
+Bm-5Q,Yuan Renminbi,5Ta-64Az,10,Conference Hall,F98-905B,Fabaceae,7,Monitor,http://dummyimage.com/126x100.png/ff4444/ffffff
+gs-2y,Ruble,A7M-97vo,8,Conference Hall,32j-05lz,Apiaceae,4,Projector,http://dummyimage.com/115x100.png/5fa2dd/ffffff
+ot-0j,Ouguiya,p37-79Qa,6,Conference Hall,816-735c,Icacinaceae,8,Monitor,http://dummyimage.com/180x100.png/ff4444/ffffff
+27-6G,Yuan Renminbi,Qwj-54xs,8,Conference Hall,M2L-57jO,Rosaceae,0,Air Conditioner,http://dummyimage.com/190x100.png/5fa2dd/ffffff
+DW-6K,Peso,PEY-27eC,8,Conference Hall,R8S-87rG,Cyperaceae,4,Duster,http://dummyimage.com/124x100.png/dddddd/000000
+5C-6C,Euro,IoN-48WB,8,Conference Hall,l1j-8254,Asteraceae,6,Water Filter,http://dummyimage.com/100x100.png/dddddd/000000
+un-4N,Zloty,7oX-720Y,6,Conference Hall,71G-61Tg,Micareaceae,9,Air Conditioner,http://dummyimage.com/231x100.png/cc0000/ffffff
+Cu-1M,Yuan Renminbi,IPP-20i0,6,Conference Hall,i6v-25NP,Asteraceae,9,Duster,http://dummyimage.com/227x100.png/ff4444/ffffff
+Py-2X,Peso,2c3-25bF,10,Conference Hall,h21-35ru,Caryophyllaceae,8,Marker,http://dummyimage.com/174x100.png/cc0000/ffffff
+U6-41,Quetzal,AoU-69DH,9,Conference Hall,b0C-552p,Fagaceae,7,Projector,http://dummyimage.com/221x100.png/ff4444/ffffff
+OK-7Q,Rupiah,7AV-05gB,7,Conference Hall,g3x-75s8,Fabaceae,6,Duster,http://dummyimage.com/235x100.png/dddddd/000000
+H5-6T,Yuan Renminbi,OO7-06H4,3,Conference Hall,A5U-109W,Caprifoliaceae,9,Projector,http://dummyimage.com/141x100.png/cc0000/ffffff
+Op-6z,Kyat,tun-56PP,9,Conference Hall,19V-17rl,Fabaceae,0,Water Filter,http://dummyimage.com/138x100.png/ff4444/ffffff
+3T-45,Hryvnia,RT8-32GU,5,Conference Hall,d3o-75WU,Polygonaceae,6,Projector,http://dummyimage.com/102x100.png/ff4444/ffffff
+Xz-3A,Yuan Renminbi,PjV-27ts,6,Conference Hall,Y5U-46Fu,Styracaceae,7,Duster,http://dummyimage.com/166x100.png/dddddd/000000
+fg-2h,Dollar,IOs-801e,8,Conference Hall,F95-72o7,Brassicaceae,0,Air Conditioner,http://dummyimage.com/140x100.png/cc0000/ffffff
+ol-9G,Peso,ADO-52Ww,4,Conference Hall,Z2y-08ZT,Betulaceae,3,Water Filter,http://dummyimage.com/218x100.png/ff4444/ffffff
+Dt-8W,Pula,9Ph-748R,8,Conference Hall,E4z-340R,Asteraceae,9,Duster,http://dummyimage.com/238x100.png/cc0000/ffffff
+qE-6V,Ruble,qyu-11pM,2,Conference Hall,d4D-55dk,Fagaceae,2,Monitor,http://dummyimage.com/239x100.png/5fa2dd/ffffff
+nS-3u,Rupiah,MrM-97Tx,10,Conference Hall,A05-47FW,Asteraceae,6,Duster,http://dummyimage.com/174x100.png/cc0000/ffffff
+CE-5R,Peso,jUw-7503,7,Conference Hall,s9D-37Ow,Asteraceae,3,Marker,http://dummyimage.com/226x100.png/cc0000/ffffff
+xb-2A,Yuan Renminbi,FEE-61qk,4,Conference Hall,Z1i-367L,Ranunculaceae,7,Duster,http://dummyimage.com/164x100.png/ff4444/ffffff
+43-86,Hryvnia,bNB-65Hl,9,Conference Hall,Z4n-82PY,Poaceae,4,Monitor,http://dummyimage.com/202x100.png/5fa2dd/ffffff
+zF-0r,Euro,gmD-37UM,5,Conference Hall,j9o-591E,Ranunculaceae,1,Monitor,http://dummyimage.com/212x100.png/5fa2dd/ffffff
+lQ-9g,Real,cCr-34dj,4,Conference Hall,R1t-59vH,Bryaceae,9,Air Conditioner,http://dummyimage.com/191x100.png/ff4444/ffffff
+dy-2m,Ruble,Vg6-28n0,3,Conference Hall,E1X-970x,Polemoniaceae,6,Duster,http://dummyimage.com/207x100.png/cc0000/ffffff
+BS-4J,Dirham,5ns-05m0,7,Conference Hall,92m-18fp,Rosaceae,1,Monitor,http://dummyimage.com/248x100.png/cc0000/ffffff
+wc-0f,Yuan Renminbi,pmm-95Fb,10,Conference Hall,L4r-584H,Caryophyllaceae,5,Marker,http://dummyimage.com/164x100.png/ff4444/ffffff
+yO-7K,Rupiah,3gb-98pL,3,Conference Hall,N4k-36Bb,Cactaceae,4,Duster,http://dummyimage.com/172x100.png/5fa2dd/ffffff
+lv-0t,Yuan Renminbi,h2A-324z,3,Conference Hall,l0k-565E,Collemataceae,5,Marker,http://dummyimage.com/190x100.png/dddddd/000000
+gZ-4U,Dram,Rff-09oS,9,Conference Hall,q8p-97kb,Moringaceae,2,Water Filter,http://dummyimage.com/180x100.png/dddddd/000000
+V7-2b,Yuan Renminbi,5Bz-01Ls,5,Conference Hall,f7E-80m1,Malpighiaceae,4,Duster,http://dummyimage.com/190x100.png/cc0000/ffffff
+KL-3J,Hryvnia,btR-54f1,4,Conference Hall,q84-73vv,Asteraceae,4,Projector,http://dummyimage.com/208x100.png/ff4444/ffffff
+Df-0A,Yuan Renminbi,4tG-51qX,1,Conference Hall,W84-56Ni,Fabaceae,3,Duster,http://dummyimage.com/196x100.png/5fa2dd/ffffff
+CN-2N,Sol,NUB-02bM,4,Conference Hall,Z64-06w0,Caprifoliaceae,3,Duster,http://dummyimage.com/154x100.png/cc0000/ffffff
+dZ-4G,Naira,JaI-03EG,3,Conference Hall,l0j-23yy,Scrophulariaceae,0,Projector,http://dummyimage.com/190x100.png/dddddd/000000
+IM-2z,Zloty,zCh-9434,2,Conference Hall,B7q-74JY,Myrtaceae,2,Marker,http://dummyimage.com/103x100.png/ff4444/ffffff
+LP-60,Rupiah,G8V-65W7,2,Cubicle,Q33-63rv,Liliaceae,1,Marker,http://dummyimage.com/127x100.png/cc0000/ffffff
+zA-33,Real,6YY-47kV,5,Conference Hall,a2V-58kU,Cyperaceae,9,Projector,http://dummyimage.com/173x100.png/dddddd/000000
+LH-02,Euro,V0n-4150,8,Conference Hall,c69-378e,Onagraceae,3,Water Filter,http://dummyimage.com/205x100.png/cc0000/ffffff
+TG-4K,Euro,oH4-67di,10,Conference Hall,K4Y-13im,Scrophulariaceae,0,Projector,http://dummyimage.com/176x100.png/dddddd/000000
+z6-6s,Yuan Renminbi,cCZ-80Q1,8,Conference Hall,S8L-64ZC,Apiaceae,4,Air Conditioner,http://dummyimage.com/175x100.png/cc0000/ffffff
+fQ-8d,Euro,VBb-431w,4,Conference Hall,z5h-60Gs,Rosaceae,1,Monitor,http://dummyimage.com/192x100.png/cc0000/ffffff
+g6-8O,Sol,rfa-67wF,4,Conference Hall,K3k-257S,Pottiaceae,9,Air Conditioner,http://dummyimage.com/106x100.png/cc0000/ffffff
+ei-8W,Yuan Renminbi,pFo-06IP,6,Conference Hall,07b-23Of,Apiaceae,7,Duster,http://dummyimage.com/127x100.png/ff4444/ffffff
+bY-3q,Manat,rro-46Yl,1,Conference Hall,38B-78JC,Hydrophyllaceae,9,Monitor,http://dummyimage.com/206x100.png/ff4444/ffffff
+Cr-27,Hryvnia,Jal-12Yq,3,Conference Hall,R5t-10In,Moraceae,4,Air Conditioner,http://dummyimage.com/189x100.png/dddddd/000000
+W3-7g,Rial,Mp2-73HV,8,Conference Hall,k2A-13lb,Pyrenulaceae,1,Monitor,http://dummyimage.com/138x100.png/ff4444/ffffff
+7d-7j,Sol,wcB-5288,8,Conference Hall,e5r-62Vl,Asteraceae,4,Air Conditioner,http://dummyimage.com/114x100.png/dddddd/000000
+b5-8W,Pound,pNA-61xN,1,Cubicle,U0i-99bT,Fabaceae,8,Water Filter,http://dummyimage.com/177x100.png/ff4444/ffffff
+tk-2s,Zloty,pBf-987O,10,Conference Hall,D4b-82Ho,Liliaceae,2,Monitor,http://dummyimage.com/194x100.png/cc0000/ffffff
+Sn-4I,Sol,TBH-751q,3,Conference Hall,f3W-75Fi,Fabaceae,1,Projector,http://dummyimage.com/176x100.png/dddddd/000000
+Hi-4L,Euro,nHr-07eU,7,Conference Hall,t8A-08NE,Convolvulaceae,1,Air Conditioner,http://dummyimage.com/171x100.png/ff4444/ffffff
+no-2G,Rupiah,jhI-48xb,2,Conference Hall,05Q-0618,Potamogetonaceae,5,Air Conditioner,http://dummyimage.com/127x100.png/5fa2dd/ffffff
+bT-14,Dollar,h2U-29ZF,4,Conference Hall,J1u-85hB,Boraginaceae,1,Air Conditioner,http://dummyimage.com/116x100.png/ff4444/ffffff
+N7-8M,Peso,U1u-71aa,8,Conference Hall,81Y-23LR,Butomaceae,3,Water Filter,http://dummyimage.com/220x100.png/dddddd/000000
+he-6O,Rupiah,BTU-95RP,7,Conference Hall,c7T-91CE,Boraginaceae,5,Marker,http://dummyimage.com/125x100.png/cc0000/ffffff
+qu-0G,Euro,JPY-84Et,1,Conference Hall,o26-47pT,Agavaceae,0,Air Conditioner,http://dummyimage.com/103x100.png/cc0000/ffffff
+Rd-7q,Euro,Ed9-54zj,6,Conference Hall,W1g-80Ug,Rhamnaceae,7,Projector,http://dummyimage.com/226x100.png/5fa2dd/ffffff
+q4-5z,Peso,bVQ-412K,4,Conference Hall,83S-81GA,Urticaceae,5,Air Conditioner,http://dummyimage.com/211x100.png/cc0000/ffffff
+X7-4e,Baht,JwY-20uv,6,Conference Hall,Z8d-933w,Pteridaceae,8,Water Filter,http://dummyimage.com/135x100.png/ff4444/ffffff
+mz-8K,Ruble,GGJ-93Ph,6,Conference Hall,d8b-077A,Lichinaceae,2,Monitor,http://dummyimage.com/149x100.png/dddddd/000000
+QS-7y,Ruble,CoD-39F1,5,Conference Hall,d8J-59wg,Teloschistaceae,7,Duster,http://dummyimage.com/226x100.png/ff4444/ffffff
+9N-3p,Rupiah,6l0-61VH,5,Conference Hall,u1D-14OJ,Cactaceae,2,Duster,http://dummyimage.com/132x100.png/ff4444/ffffff
+5z-7d,Franc,Vvq-07Fz,9,Conference Hall,371-50As,Fabaceae,1,Projector,http://dummyimage.com/204x100.png/dddddd/000000
+3E-3G,Rupiah,bjN-40GC,10,Conference Hall,v0y-965S,Simaroubaceae,5,Duster,http://dummyimage.com/175x100.png/ff4444/ffffff
+Tz-32,Yuan Renminbi,00z-09l0,7,Conference Hall,48V-65Y5,Stereocaulaceae,0,Air Conditioner,http://dummyimage.com/173x100.png/dddddd/000000
+bp-6Q,Rupiah,jEg-10LW,3,Conference Hall,U3f-3422,Brachytheciaceae,9,Marker,http://dummyimage.com/174x100.png/cc0000/ffffff
+iv-3G,Peso,UVe-18El,6,Conference Hall,e2j-87HG,Plantaginaceae,2,Duster,http://dummyimage.com/118x100.png/dddddd/000000
+2x-7F,Euro,OeB-53dE,6,Conference Hall,S1t-58MR,Gomphillaceae,1,Duster,http://dummyimage.com/203x100.png/cc0000/ffffff
+6I-6f,Peso,9J9-99pZ,6,Conference Hall,18Y-37LT,Nyctaginaceae,2,Air Conditioner,http://dummyimage.com/183x100.png/5fa2dd/ffffff
+3g-3b,Euro,RfP-69xW,6,Conference Hall,g9J-45Ej,Poaceae,2,Marker,http://dummyimage.com/118x100.png/dddddd/000000
+3P-5H,Rupiah,s0o-84WR,4,Conference Hall,B8U-96hO,Asteraceae,5,Water Filter,http://dummyimage.com/163x100.png/dddddd/000000
+YE-9H,Euro,uQX-74zt,2,Cubicle,78p-02k4,Rutaceae,0,Duster,http://dummyimage.com/240x100.png/ff4444/ffffff
+Ov-18,Euro,cMz-03oW,10,Conference Hall,y0u-61zD,Fabaceae,0,Monitor,http://dummyimage.com/162x100.png/5fa2dd/ffffff
